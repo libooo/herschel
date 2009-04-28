@@ -3,4 +3,10 @@
 
 = 每周电话会议记录 =
 
-= 2009-05-07 =
+== 2009-05-07 ==
+
+=== 会前准备 ===
+=== 李波 ===
+  # SPR-6605[http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6605]
+  # SCR-6606[http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6606] 
+
