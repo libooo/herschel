@@ -7,5 +7,5 @@
 
 === 会前准备 ===
 === 李波 ===
-  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6605 SPR-6605]
-  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6606 SCR-6606] 
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6605 SPR-6605] : sim3-failure while cal. product upload testing; getVersions(pref) fails for dbp.
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6606 SCR-6606] : SIMS#3: not able to set cache to be used in offline mode
