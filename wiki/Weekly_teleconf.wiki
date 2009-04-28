@@ -1,20 +1,20 @@
 #labels Phase-Implementation,notes,meetingminutes
-每周电话会议记录
+Weekly teleconf minutes
 
-= 每周电话会议记录 =
+= Weekly teleconf minutes =
 
 == 2009-05-07 ==
 
-=== 会前准备 ===
-==== 李波 ====
+=== Pre-meeting ===
+==== Bo ====
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6605 SPR-6605] : sim3-failure while cal. product upload testing; getVersions(pref) fails for dbp.
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6606 SCR-6606] : SIMS#3: not able to set cache to be used in offline mode
 
-==== 李晶晶 ====
+==== Jingjing ====
   # 
 
-=== 会议记录 ===
+=== Meeting mimutes ===
   # 
 
-=== 下次会议安排 ===
+=== Next teleconf ===
   # 
