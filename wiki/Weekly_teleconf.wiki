@@ -11,6 +11,7 @@ Weekly teleconf minutes
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6606 SCR-6606] : SIMS#3: not able to set cache to be used in offline mode
   # Performance: getAllLatestVersionUrnByClass() optimized. （D_IA_PAL_POOL_LSTORE_1_75 (2009-05-05) [BLI]）
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6548 SPR-6548] : Change of class for the result of a query
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6735 SPR-6735] : SGS-E2E#1: Cache pool inconsitent tagging in multi client environment
 
 
 ==== Jingjing ====
