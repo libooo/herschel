@@ -21,7 +21,7 @@ Weekly teleconf minutes
 === PAL === 
   # Create a SCR for lstore performance and work on it.
   # SCR-6701 Performance of PAL Context Rules mechanism. 
-  Implement caching getMeta() in ProductRef.  
+  Implement caching metadata for ProductRef.getMeta().  
     * Implement it to see if it break any test harness.
     * Using a secret property to control if the behavior is changed.
 
