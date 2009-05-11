@@ -3,7 +3,7 @@ Weekly teleconf minutes
 
 = Weekly teleconf minutes =
 
-== 2009-05-14 ==
+== 2009-05-21 ==
 === Pre-meeting ===
 ==== Bo ====
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6762 SPR-6762] : cache blocks usr from writing to a DbPool ; cannot be recovered in same session
