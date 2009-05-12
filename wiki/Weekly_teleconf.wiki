@@ -8,9 +8,9 @@ Weekly teleconf minutes
 == 2009-05-21 ==
 === Pre-meeting ===
 ==== Bo ====
-  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6762 SPR-6762] : cache blocks usr from writing to a DbPool ; cannot be recovered in same session
-  # HttpPool not working after ia.io updated(1.1.39)
-  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701 SPR-6701] : Performance of PAL Context Rules mechanism
+  # 0.2 [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6762 SPR-6762] : cache blocks usr from writing to a DbPool ; cannot be recovered in same session 
+  # 0.5 HttpPool not working after ia.io updated(1.1.39)
+  # 0.5 [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701 SPR-6701] : Performance of PAL Context Rules mechanism
 
 === Jingjing ===
   # 
