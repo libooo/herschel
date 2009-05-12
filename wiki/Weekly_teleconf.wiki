@@ -10,6 +10,7 @@ Weekly teleconf minutes
 ==== Bo ====
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6762 SPR-6762] : cache blocks usr from writing to a DbPool ; cannot be recovered in same session
   # HttpPool not working after ia.io updated(1.1.39)
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701 SPR-6701] : Performance of PAL Context Rules mechanism
 
 === Jingjing ===
   # 
