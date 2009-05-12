@@ -37,7 +37,7 @@ Weekly teleconf minutes
     * Using a secret property to control if the behavior is changed.
 
 === Plot ===
-  # SCR-5372: plotting of time series
+  # SCR-5372: plotting of time series  50%
 
 === Sean ===
 About sent Sean to RAL.
