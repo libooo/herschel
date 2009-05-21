@@ -19,6 +19,9 @@ Weekly teleconf minutes
 === Jingjing ===
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6666 SPR-6666] Over Plotter Single Layer Mode Problem
 
+=== Meeting mimutes ===
+==== PAL ===
+
 
 ----
 
