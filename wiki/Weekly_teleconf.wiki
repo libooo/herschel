@@ -16,7 +16,7 @@ Weekly teleconf minutes
   # Create an SCR for lstore performance... SCR-6842	General Lstore Performance
 
 === Jingjing ===
-  # SPR-6666 Over Plotter Single Layer Mode Problem
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6666 SPR-6666] Over Plotter Single Layer Mode Problem
 
 
 ----
