@@ -11,7 +11,7 @@ Weekly teleconf minutes
   # 0.2 [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6762 SPR-6762] : cache blocks usr from writing to a DbPool ; cannot be recovered in same session 
   # 0.5 Testing only. HttpPool not working after ia.io updated(1.1.39) [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6777 SPR-6777] : HttpPool not working
   # 0.5 [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701 SPR-6701] : Performance of PAL Context Rules mechanism
-  # 0.5 Analyze [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436 SPR-4436] : Pool Schema Evolver Does not copy tags info
+  # 0.5 Analyze only. [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436 SPR-4436] : Pool Schema Evolver Does not copy tags info
   # 0.2 Just email exchange on [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316 SCR-6316] : Naming convention for exported FITS files
   # Create an SCR for lstore performance... SCR-6842	General Lstore Performance
 
