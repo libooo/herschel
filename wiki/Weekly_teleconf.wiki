@@ -13,7 +13,7 @@ Weekly teleconf minutes
   # 0.5 [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701 SPR-6701] : Performance of PAL Context Rules mechanism
   # 0.5 Analyze only. [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436 SPR-4436] : Pool Schema Evolver Does not copy tags info
   # 0.2 Just email exchange on [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316 SCR-6316] : Naming convention for exported FITS files
-  # Create an SCR for lstore performance... SCR-6842	General Lstore Performance
+  # Create an SCR for lstore performance... [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842 SCR-6842] : General Lstore Performance
 
 === Jingjing ===
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6666 SPR-6666] Over Plotter Single Layer Mode Problem
