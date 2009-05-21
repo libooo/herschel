@@ -21,6 +21,8 @@ Weekly teleconf minutes
 
 === Meeting mimutes ===
 ==== PAL ===
+Next Action: 
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316 SCR-6316 & 6766 & 6767] : Naming convention for exported FITS files
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6743 SPR-6743] : cannot instantiate a cache pool offline
   # Try to deliver [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842 SCR-6842] : General Lstore Performance  before next code freeze.
 
