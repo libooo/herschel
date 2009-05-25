@@ -1,5 +1,4 @@
 #labels Phase-Implementation,notes,meetingminutes
-Weekly teleconf minutes
 
 = Weekly teleconf minutes =
 
