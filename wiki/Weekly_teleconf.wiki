@@ -6,7 +6,7 @@
 == 2009-05-27 ==
 === Pre-meeting ===
 ==== Bo ====
-  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316 SCR-6316 & 6766 & 6767] : Naming convention for exported FITS files
+  # 0.2 Done? [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316 SCR-6316 & 6766 & 6767] : Naming convention for exported FITS files
   # 1.0md Done [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6743 SPR-6743] : cannot instantiate a cache pool offline
   # 1.0md Done [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=5024  SCR-5024] : PoolDaemon must provide HCSS build number
 
