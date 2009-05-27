@@ -11,6 +11,10 @@
   # 1.0md Done [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=5024  SCR-5024] : PoolDaemon must provide HCSS build number
   # 0.2md Done 	[http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6676  SPR-6676] : MapContext presents products in non-alphabetical order
   # Should I look it in high priority?[http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436  SPR-4436] : Pool Schema Evolver Does not copy tags info
+==== Jingjing ====
+  # SCR-5372 : plotting of time series
+
+
 ----
 
 == 2009-05-21 ==
