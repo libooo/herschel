@@ -25,12 +25,12 @@
 Maohai asked about the use of XTCE in herschel. Steve has no idea about it. 
 
 ==== PAL ===
-Bo reported the work items listed in above Pre-meeting. 
+Bo reported the work items listed in above Pre-meeting section. 
 Next Action: 
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436  SPR-4436] : Pool Schema Evolver Does not copy tags info
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842 SCR-6842] : General Lstore Performance
 ==== Plot ====
-Jingjing reported the work items listed in above Pre-meeting. 
+Jingjing reported the work items listed in above Pre-meeting section. 
 Next Action: 
   # 
 
