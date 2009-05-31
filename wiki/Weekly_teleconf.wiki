@@ -7,6 +7,7 @@
 ==== Bo ====
   # 1md done? [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436  SPR-4436] : Pool Schema Evolver Does not copy tags info
   # 0.5 md done? [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6920  SPR-6920] : CRITICAL: Cache pool do not set owner of the product properly
+  # 
 
 ----
 
