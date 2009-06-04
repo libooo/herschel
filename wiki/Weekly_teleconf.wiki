@@ -1,6 +1,12 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2009-06-12 16:00 ==
+=== Pre-meeting ===
+==== Bo ====
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842 SCR-6842] : General Lstore Performance
+==== Jingjing ====
+  # 
 ----
 == 2009-06-04 15:30 ==
 === Pre-meeting ===
