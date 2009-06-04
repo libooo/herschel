@@ -19,6 +19,7 @@ Bo reported the work items listed in above Pre-meeting section.
 
 Next Action: 
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842 SCR-6842] : General Lstore Performance
+  # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701 SPR-6701] : Performance of PAL Context Rules mechanism
 ==== Plot ====
 
 Jingjing reported the work items listed in above Pre-meeting section. 
