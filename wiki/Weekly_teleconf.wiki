@@ -5,6 +5,7 @@
 === Pre-meeting ===
 ==== Bo ====
   # 2md 90% [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842 SCR-6842] : General Lstore Performance
+  # SCR-6842 also fix SPR-6076:Unexpected behavior of setTag doubles the size of the pool.
   # 0.5md Done [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701 SPR-6701] : Performance of PAL Context Rules mechanism
   # 0.1md Done [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6802 SCR-6802] : Move SizeCalculator from ia_pal to ia_dataset
 
