@@ -1,6 +1,8 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2009-06-30 16:00 ==
+
 == 2009-06-19 16:00 ==
   # 0.5md 80%? [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4186  SCR-4186] : Remove component SimplePool
   # SCR-6842 also fix [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6076 SPR-6076] : Unexpected behavior of setTag doubles the size of the pool.
