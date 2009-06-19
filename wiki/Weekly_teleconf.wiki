@@ -4,10 +4,13 @@
 == 2009-06-30 16:00 ==
 
 == 2009-06-19 16:00 ==
+==== Bo ====
   # 0.5md 80%? [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4186  SCR-4186] : Remove component SimplePool
+  Wait for others guys go on the procedure...
   # SCR-6842 also fix [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6076 SPR-6076] : Unexpected behavior of setTag doubles the size of the pool.
-  Requirement conflict? 
+  Wait for confirm the requirement of versionned Tag could be dropped.  
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7115 SPR-7115] :URGENT: cached pool does not work with any context product?
+  
 
 ----
 
