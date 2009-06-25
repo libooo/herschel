@@ -6,6 +6,9 @@
   # 1md Done [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7115 SPR-7115/SPR-7116] : URGENT: cached pool does not work with any context product?
   # 0.4md Done [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7151 SPR-7151] : SimplePool still present in ia_pal documentation
   # 0.1md Done [http://herschel.esac.esa.int/jira/browse/HCSS-6206 HCSS-6206]: Broken SW Documentation Chain in ia_pal_pool_serial 
+  # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5024 HCSS-5024]: SCR:HCSS-5024:ia_pal_pool_serial: PoolDaemon must provide HCSS build number
+  # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7191 HCSS-7191]: ia_pal_pool_serial: SCR: HCSS-7191: ia_pal: Chain storage registrations, register storages in storages
+  # 0.25md 80% [http://herschel.esac.esa.int/jira/browse/HCSS-4268 HCSS-4268]: Remove backwards compatibility with previous versioning implementation
 
 ==== Jingjing ====
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7136 SPR-7136] PlotXY does not apply stored default values
