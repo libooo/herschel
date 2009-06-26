@@ -9,6 +9,7 @@
   # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5024 HCSS-5024]: SCR:HCSS-5024:ia_pal_pool_serial: PoolDaemon must provide HCSS build number
   # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7191 HCSS-7191]: ia_pal_pool_serial: SCR: HCSS-7191: ia_pal: Chain storage registrations, register storages in storages
   # 0.25md 80% [http://herschel.esac.esa.int/jira/browse/HCSS-4268 HCSS-4268]: Remove backwards compatibility with previous versioning implementation
+  # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7208 HCSS-7208]: HCSS-7208: ia_pal_pool_cache: Create a means to invoke an automatic load of all the childs in case a root-product (for ex. a map context) is loaded in cache pool
 
 ==== Jingjing ====
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7136 SPR-7136] PlotXY does not apply stored default values
