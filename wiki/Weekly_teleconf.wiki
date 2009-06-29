@@ -12,6 +12,7 @@
   # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7208 HCSS-7208]: HCSS-7208: ia_pal_pool_cache: Create a means to invoke an automatic load of all the childs in case a root-product (for ex. a map context) is loaded in cache pool
   # 0.1md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5666 HCSS-5666]: SPR: HCSS-5666: ia_pal: hcss.ia.pal.defaultpool still appears in PoolManager
   # 0.5md Done? [http://herschel.esac.esa.int/jira/browse/HCSS-6950 HCSS-6950]: ia_pal_pool_lstore test-harnesss not reliable
+  # 30min Done [http://herschel.esac.esa.int/jira/browse/HCSS-3394 HCSS-3394]: Update the User Reference Manual: Pal examples
 
 ==== Jingjing ====
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7136 SPR-7136] PlotXY does not apply stored default values
