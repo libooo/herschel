@@ -13,6 +13,7 @@
   # 0.1md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5666 HCSS-5666]: SPR: HCSS-5666: ia_pal: hcss.ia.pal.defaultpool still appears in PoolManager
   # 0.5md Done? [http://herschel.esac.esa.int/jira/browse/HCSS-6950 HCSS-6950]: ia_pal_pool_lstore test-harnesss not reliable
   # 0.1md Done [http://herschel.esac.esa.int/jira/browse/HCSS-3394 HCSS-3394]: Update the User Reference Manual: Pal examples
+  # 0.2md 70% [http://herschel.esac.esa.int/jira/browse/HCSS-5921 HCSS-5921]: Inconsistent behaviour in PoolCreatorFactory
 
 ==== Jingjing ====
   # [http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7136 SPR-7136] PlotXY does not apply stored default values
