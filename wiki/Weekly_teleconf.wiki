@@ -5,7 +5,7 @@
 ==== Bo ====
   # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7277 HCSS-7277]: Tags API incomplete
   # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5460 HCSS-5460]: Poor feedback on errors
-  # 0.1md 10% [http://herschel.esac.esa.int/jira/browse/HCSS-5189 HCSS-5189]: PoolManager/StorageManager: Specification of XML config files
+  # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5189 HCSS-5189]: PoolManager/StorageManager: Specification of XML config files
 
 
 ----
