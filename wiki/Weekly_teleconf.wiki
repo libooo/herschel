@@ -6,7 +6,8 @@
   # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7277 HCSS-7277]: Tags API incomplete
   # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5460 HCSS-5460]: Poor feedback on errors
   # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5189 HCSS-5189]: PoolManager/StorageManager: Specification of XML config files
-
+  # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5131 HCSS-5131]: product browser exits with null pointer exception
+  # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7346 HCSS-7346]: Take account of odNumber in file name
 
 ----
 
