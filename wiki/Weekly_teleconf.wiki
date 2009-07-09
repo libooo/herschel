@@ -9,6 +9,7 @@
   # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-5131 HCSS-5131]: product browser exits with null pointer exception
   # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7346 HCSS-7346]: Take account of odNumber in file name
   # 0.5md 50%for approach 1. [http://herschel.esac.esa.int/jira/browse/HCSS-4469 HCSS-4469]: provide mechanism to distribute and use a pool as a jar-file 
+  # 0.1md Done [http://herschel.esac.esa.int/jira/browse/HCSS-3489 HCSS-3489]: Incomplete developer documentation for IA_Pal_Pool_Serial
 
 ----
 
