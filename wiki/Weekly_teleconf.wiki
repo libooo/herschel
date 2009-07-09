@@ -11,6 +11,11 @@
   # 0.5md 50%for approach 1. [http://herschel.esac.esa.int/jira/browse/HCSS-4469 HCSS-4469]: provide mechanism to distribute and use a pool as a jar-file 
   # 0.1md Done [http://herschel.esac.esa.int/jira/browse/HCSS-3489 HCSS-3489]: Incomplete developer documentation for IA_Pal_Pool_Serial
 
+==== Jingjing ====
+  # (done) HCSS-7062 PlotXY should adapt HIPE preference framework
+  # (done) HCSS-7180 unicode character in math mode 
+  # (done) HCSS-7328 axis tick: assign a combination of (values, labels)
+
 ----
 
 == 2009-06-30 16:00 ==
