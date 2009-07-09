@@ -1,6 +1,12 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2009-07-21 16:00 ==
+==== Bo ====
+
+
+----
+
 == 2009-07-09 16:00 ==
 ==== Bo ====
   # 0.5md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7277 HCSS-7277]: Tags API incomplete
@@ -10,6 +16,10 @@
   # 0.25md Done [http://herschel.esac.esa.int/jira/browse/HCSS-7346 HCSS-7346]: Take account of odNumber in file name
   # 0.5md 50%for approach 1. [http://herschel.esac.esa.int/jira/browse/HCSS-4469 HCSS-4469]: provide mechanism to distribute and use a pool as a jar-file 
   # 0.1md Done [http://herschel.esac.esa.int/jira/browse/HCSS-3489 HCSS-3489]: Incomplete developer documentation for IA_Pal_Pool_Serial
+
+Next Action:
+  # HCSS-4469
+  # HCSS-6924
 
 ==== Jingjing ====
   # (done) HCSS-7062 PlotXY should adapt HIPE preference framework
