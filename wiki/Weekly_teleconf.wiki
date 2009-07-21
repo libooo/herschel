@@ -14,6 +14,10 @@
   # [http://herschel.esac.esa.int/jira/browse/HCSS-7277 HCSS-7277]: Tags API incomplete
   # [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842]: General Lstore Performance
 
+==== Jingjing ====
+  # (done) HCSS-7405 plot performance when adding many layers
+  # (done) HCSS-7434 Test-harness of ia_gui_plot randomly fails
+  # (20%) HCSS-7419 LayerXY crashes when changing x,y vectors
 ----
 
 == 2009-07-09 16:00 ==
