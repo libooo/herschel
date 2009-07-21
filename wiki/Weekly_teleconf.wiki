@@ -12,7 +12,7 @@
 ===== To Do=====
   # [http://herschel.esac.esa.int/jira/browse/HCSS-7476 HCSS-7476]: Current cache limiting strategy does not make sense
   # [http://herschel.esac.esa.int/jira/browse/HCSS-7277 HCSS-7277]: Tags API incomplete
-  # [http://herschel.esac.esa.int/jira/browse/HCSS-6842]: General Lstore Performance
+  # [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842]: General Lstore Performance
 
 ----
 
