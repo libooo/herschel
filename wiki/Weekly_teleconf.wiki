@@ -11,8 +11,8 @@
   # 0.2md 100%. [http://herschel.esac.esa.int/jira/browse/HCSS-7464 HCSS-7464]: deprecation of herschel.ia.pal.versioning.TagsLoader
 ===== To Do=====
   # [http://herschel.esac.esa.int/jira/browse/HCSS-7476 HCSS-7476]: Current cache limiting strategy does not make sense
-  # [http://herschel.esac.esa.int/jira/browse/HCSS-7277 HCSS-7277]: Tags API incomplete
-  # [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842]: General Lstore Performance
+  # [http://herschel.esac.esa.int/jira/browse/HCSS-7277 HCSS-7277]: Tags API incomplete *Before Friday*
+  # [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842]: General Lstore Performance  *Before Friday*
 
 ==== Jingjing ====
   # (done) HCSS-7405 plot performance when adding many layers
