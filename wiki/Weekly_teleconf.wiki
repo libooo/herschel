@@ -3,6 +3,11 @@
 
 == 2009-07-21 16:00 ==
 ==== Bo ====
+  # 0.8md 100% for approach 1. [http://herschel.esac.esa.int/jira/browse/HCSS-4469 HCSS-4469]: provide mechanism to distribute and use a pool as a jar-file 
+  # 0.3md Analyzed(pending for feedback) [http://herschel.esac.esa.int/jira/browse/HCSS-5601 HCSS-5601]:Request for Recursive Delete Function
+  # 0.1md Done. [http://herschel.esac.esa.int/jira/browse/HCSS-7191 HCSS-7191]:Chain storage registrations, register storages in storages
+  # 2.5md 100% for ia_pal. Not start on pools. [http://herschel.esac.esa.int/jira/browse/HCSS-7461 HCSS-7461]: Improve the test coverage to >80%
+  # 0.2md Done. [http://herschel.esac.esa.int/jira/browse/HCSS-7464 HCSS-7464]: deprecation of herschel.ia.pal.versioning.TagsLoader
 
 
 ----
