@@ -1,6 +1,10 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2009-08-06 16:00 ==
+==== Bo ====
+===== Done =====
+  # 
 
 == 2009-07-29 16:00 ==
 ==== Bo ====
