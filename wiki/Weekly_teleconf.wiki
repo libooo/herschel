@@ -9,6 +9,10 @@
   # 0.8md 90%? [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842]: General Lstore Performance
   # 0.5md 30% [http://herschel.esac.esa.int/jira/browse/HCSS-7476 HCSS-7476] :Current cache limiting strategy does not make sense
 
+==== Jingjing ====
+  # (2.0md done) HCSS-7419 LayerXY crashes when changing x,y vectors
+  # (1md 80%) HCSS-7320 PlotXY as a HIPE editor
+
 
 == 2009-07-21 16:00 ==
 ==== Bo ====
