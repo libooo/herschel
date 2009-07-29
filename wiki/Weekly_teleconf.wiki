@@ -1,6 +1,14 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+
+== 2009-07-29 16:00 ==
+==== Bo ====
+===== Done =====
+  # 0.5md 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7562 HCSS-7562] : Cache pool does not handle multiclient access properly
+  # 0.8md 90%? [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842]: General Lstore Performance
+
+
 == 2009-07-21 16:00 ==
 ==== Bo ====
 ===== Done =====
