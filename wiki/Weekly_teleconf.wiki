@@ -12,6 +12,10 @@
   # 0.5md 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7562 HCSS-7562] : Cache pool does not handle multiclient access properly
   # 0.8md 90%? [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842]: General Lstore Performance
   # 0.5md 30% [http://herschel.esac.esa.int/jira/browse/HCSS-7476 HCSS-7476] :Current cache limiting strategy does not make sense
+===== To Do =====
+  # update 6842 SCR about autoupdate
+  # HCSS-7558	Random failure to save products to a localStore pool
+  # [http://herschel.esac.esa.int/jira/browse/HCSS-7476 HCSS-7476] :Current cache limiting strategy does not make sense
 
 ==== Jingjing ====
   # (2.0md done) HCSS-7419 LayerXY crashes when changing x,y vectors
