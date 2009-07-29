@@ -11,7 +11,8 @@
 
 ==== Jingjing ====
   # (2.0md done) HCSS-7419 LayerXY crashes when changing x,y vectors
-  # (1md 80%) HCSS-7320 PlotXY as a HIPE editor
+  # (2md done) HCSS-7320 PlotXY as a HIPE editor
+  # (0.2md 10%) HCSS-7583 Plot properties panel should migrate to HIPE outline and properties view
 
 
 == 2009-07-21 16:00 ==
