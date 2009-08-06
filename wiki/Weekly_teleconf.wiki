@@ -7,6 +7,7 @@
   # 4h 90% [http://herschel.esac.esa.int/jira/browse/HCSS-7476 HCSS-7476] :Current cache limiting strategy does not make sense
   # 1h 100% d-tagged in 1.2 [http://herschel.esac.esa.int/jira/browse/HCSS-6842 HCSS-6842] : General Lstore Performance
   # 2h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7644 HCSS-7644] :version number of observation contexts are always set to 0
+  # 2h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7558 HCSS-7558] :Random failure to save products to a localStore pool
   # 1h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7642 HCSS-7642] :Cannot access Pools any more
   # 0.25h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7604 HCSS-7604] :Delegated CachedPool setReadOnly status set wrongly
   # 0.5h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7500 HCSS-7500] :Rollback of unapproved PAL changes
