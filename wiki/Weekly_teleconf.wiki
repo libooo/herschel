@@ -14,7 +14,8 @@
   # 1h 100% HCSS-7770   Taggable JavaDoc
   # 4h moved to ia_io  HCSS-7744	Memory leaks when saving large context
 
-  
+==== Jingjing ====
+  # (70%) HCSS-7583 Plot properties panel should migrate to HIPE outline and properties view 
   
 
 == 2009-08-06 16:00 ==
@@ -27,6 +28,10 @@
   # 1h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7642 HCSS-7642] :Cannot access Pools any more
   # 0.25h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7604 HCSS-7604] :Delegated CachedPool setReadOnly status set wrongly
   # 0.5h 100% [http://herschel.esac.esa.int/jira/browse/HCSS-7500 HCSS-7500] :Rollback of unapproved PAL changes
+
+==== Jingjing ====
+  # (40%) HCSS-7583 Plot properties panel should migrate to HIPE outline and properties view 
+
 
 == 2009-07-29 16:00 ==
 ==== Bo ====
