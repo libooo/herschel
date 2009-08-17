@@ -1,6 +1,22 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2009-08-17 16:00 ==
+==== Bo ====
+===== Done =====
+  # 4h 100% HCSS-6214	Synchronized Locks cache grows until out of memory	
+  # 1h 80%  HCSS-7645	Bin script for poolDaemon
+  # 2h 10%  HCSS-7704	HCSS Local Store very inefficient storing data
+  # 1h 10%  HCSS-7750	BasicLock uses unreliable mechanism
+  # 3h 90%  HCSS-7733	Copy Constructor of MapContext gives a NullPointerException
+  # 2h 20%  HCSS-7697	Random error in test harnesses of ia_pal_pool_cache
+  # 0.2h 100% HCSS-7778	ProductPool JavaDoc mistake
+  # 1h 100% HCSS-7770   Taggable JavaDoc
+  # 4h moved to ia_io  HCSS-7744	Memory leaks when saving large context
+
+  
+  
+
 == 2009-08-06 16:00 ==
 ==== Bo ====
 ===== Done =====
