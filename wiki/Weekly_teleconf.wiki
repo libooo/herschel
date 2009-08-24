@@ -1,6 +1,11 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2009-08-25 16:00 ==
+==== telecon on PAL concurrency behaviour ====
+===== libo, Steve, Stephan, Paul, Jorgo, Asier, Anthony =====
+
+
 == 2009-08-17 16:00 ==
 ==== Bo ====
 ===== Done =====
@@ -17,6 +22,10 @@
 ==== Jingjing ====
   # (70%) HCSS-7583 Plot properties panel should migrate to HIPE outline and properties view 
   
+== 2009-08-11 16:00 ==
+==== telecon on assistance for ia_pal_pool_cache development ====
+===== Stephan, libo, Steve, Paul, Juan, Jaime =====
+
 
 == 2009-08-06 16:00 ==
 ==== Bo ====
