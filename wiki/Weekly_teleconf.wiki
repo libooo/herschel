@@ -27,7 +27,7 @@
   
 ----
 
-== 2009-08-11 16:00 ==
+== 2009-08-11 15:30 ==
 ==== telecon on assistance for ia_pal_pool_cache development ====
 ===== Stephan, libo, Steve, Paul, Juan, Jaime =====
 
