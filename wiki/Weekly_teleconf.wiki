@@ -25,6 +25,13 @@
     _Pending for the pool to reproduce the problem_
   # 4h  100%  HCSS-7918	getProductClasses is not cleaned up when products are removed
 
+==== Jingjing ====
+ # HCSS-7959 (done) Can't make layers in grid with axes merged
+ # HCSS-7783 (done) add removeLayers() method to SubPlot
+ # HCSS-7583 (done) Plot properties panel should migrate to HIPE outline and properties view
+ # HCSS-7448 (done) CLONE -Plot SaveAs dialog should remember the last folder and format
+ # HCSS-6053 (done) writing a buffered image in memory directly to a file
+
 
 ----
 
