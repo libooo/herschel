@@ -3,6 +3,32 @@
 
 ----
 
+== 2009-09-04 16:00 ==
+==== Bo ====
+===== Done =====
+  # 2h  100%  HCSS-4292 DPST13.1:Exception rised when copying products (calsdb)
+  # 2h  100%  HCSS-4538	LocalStore crashes with null pointer exception if directory not readable
+  # 10h 100%  HCSS-4652 Backwards compatibility even if class definitions have been removed
+  # 4h   50%  HCSS-5921	Inconsistent behaviour in PoolCreatorFactory
+    _SG: I would like to hear your advice on this one_
+  # 3h  100%  HCSS-6607	StorageManager.getStorage(...) returns incorrect value
+  # 1h   50%  HCSS-7460	ProductStorage constructor does not properly handle constructing local stores
+    _Pending for user's feedbacks_
+  # 2h   20%  HCSS-7521	AttributeContainer.FakeProduct must provide a getDescription() method
+    _Pending for approval for implementation_
+  # 1h  100%  HCSS-7645 Bin script for poolDaemon
+  # 2h   80%  HCSS-7693	ProductStorage wrong behaviour when working with empty pools   
+    _Pending for approval to merge to 1.1_
+  # 6h  100%  HCSS-7698	Data pool created in 1.1.1589 cannot be read by 1.1.1513
+  # 2h  100%  HCSS-7733	Copy Constructor of MapContext gives a NullPointerException
+  # 1h  100%  HCSS-7758 PoolDaemon usage info not printed correctly
+  # 1h   10%  HCSS-7913	Can't see Spire data content
+    _Pending for the pool to reproduce the problem_
+  # 4h  100%  HCSS-7918	getProductClasses is not cleaned up when products are removed
+
+
+----
+
 == 2009-08-25 16:00 ==
 ==== telecon on PAL concurrency behaviour ====
 ===== libo, Steve, Stephan, Paul, Jorgo, Asier, Anthony =====
