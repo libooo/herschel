@@ -10,7 +10,6 @@
   # 2h  100%  HCSS-4538	LocalStore crashes with null pointer exception if directory not readable
   # 10h 100%  HCSS-4652 Backwards compatibility even if class definitions have been removed
   # 4h   50%  HCSS-5921	Inconsistent behaviour in PoolCreatorFactory
-    _SG: I would like to hear your advice on this one_
   # 3h  100%  HCSS-6607	StorageManager.getStorage(...) returns incorrect value
   # 1h   50%  HCSS-7460	ProductStorage constructor does not properly handle constructing local stores
     _Pending for user's feedbacks_
