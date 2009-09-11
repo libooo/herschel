@@ -2,6 +2,17 @@
 = Weekly teleconf minutes =
 
 ----
+== 2009-09-11 16:00 ==
+==== Bo ====
+===== Done =====
+  # 8h 100% HCSS-8077	Need to clear corrupted versions info in rebuildIndex()
+  # 1h 100% HCSS-8040	Deprecate SynchronizedPool
+  # 2h 100% HCSS-8022	AbstractQuery hashCode forgets about retrieveAllVersions
+  # 1h 100% HCSS-8039	Remove removeUrn from Versionable interface
+  # 2h 100% HCSS-8059	Modification to file naming rules
+  # 4h 100% HCSS-8060	Memory leaks when saving large context
+
+----
 
 == 2009-09-04 16:00 ==
 ==== Bo ====
