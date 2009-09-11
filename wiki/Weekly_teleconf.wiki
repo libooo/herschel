@@ -11,6 +11,7 @@
   # 1h 100% HCSS-8039	Remove removeUrn from Versionable interface
   # 2h 100% HCSS-8059	Modification to file naming rules
   # 4h 100% HCSS-8060	Memory leaks when saving large context
+  # 4h 100% HCSS-6942   Out of memory error with level 0.5 product in ops pool
 
 ----
 
