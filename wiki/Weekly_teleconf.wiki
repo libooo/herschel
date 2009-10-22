@@ -1,6 +1,15 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+
+----
+== 2009-10-22 16:00 ==
+==== Bo ====
+===== Done =====
+  # 2h 100% HCSS-8117	DPST1.2:Wrong results from queries
+  # 2h 100% HCSS-8414	SerialClientPool does not pass methods to remote pool
+  # 4h 100% HCSS-8443	Query throws exception
+
 ----
 == 2009-09-11 16:00 ==
 ==== Bo ====
