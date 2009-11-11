@@ -1,6 +1,20 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+----
+== 2009-11-12 16:00 ==
+==== Bo ====
+===== Done =====
+
+==== Jingjing ====
+===== Done =====
+ # HCSS-6179 PlotXY constructor ignores isSwingAwarned flag
+ # HCSS-8583 DPAT2: include a middle-button roll zoom in PlotXY
+ # HCSS-8649 Some data points disappear from display
+ # HCSS-8589 Mouse zoom not working in PlotXY (MacOsX)
+ # HCSS-8420 NullPointerException from PlotXY.getRenderedImage() when PlotXY is created with PlotXY(False)
+ # HCSS-8554 Can not open TPL or OPL from HIPE
+ # Preview: Configurable mouse behavior binding (HCSS-5915)
 
 ----
 == 2009-10-22 16:00 ==
