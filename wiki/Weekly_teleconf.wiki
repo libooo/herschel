@@ -10,6 +10,17 @@
   # 2h 100% HCSS-8414	SerialClientPool does not pass methods to remote pool
   # 4h 100% HCSS-8443	Query throws exception
 
+==== Jingjing ====
+===== Done =====
+ # HCSS-8275 Tired of this: PlotXY continue to crash for various reasons.
+ # HCSS-8326 Illegal dependencies on SUN internal code
+ # HCSS-8332 relocate "graphic" and "image" preferences
+ # HCSS-8241 right ascension axis should be inverted nature
+ # HCSS-8343 Axis lock API too hard to use
+ # HCSS-8240 OverPlotter can not come back to free scale after mouse zoom in
+ # HCSS-5701 PlotXY should understand astronomical coordinates
+ # HCSS-8096 PlotXY stop working (compatible behavior)
+
 ----
 == 2009-09-11 16:00 ==
 ==== Bo ====
@@ -22,6 +33,13 @@
   # 4h 100% HCSS-8060	Memory leaks when saving large context
   # 4h 100% HCSS-6924   Out of memory error with level 0.5 product in ops pool
 
+==== Jingjing ====
+===== Done =====
+ # HCSS-7959 Can't make layers in grid with axes merged
+ # HCSS-7783 add removeLayers() method to SubPlot
+ # HCSS-7448 CLONE -Plot SaveAs dialog should remember the last folder and format
+ # HCSS-6053 writing a buffered image in memory directly to a file
+ # HCSS-8027 Remove message "Content" from PlotPreferencesPanel
 ----
 
 == 2009-09-04 16:00 ==
