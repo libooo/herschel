@@ -4,6 +4,21 @@
 ----
 == 2009-11-12 16:00 ==
 ==== Bo ====
+  # 4h 100% HCSS-8681	Product is apparently copied when saved to a localstore
+  # 1h 100% HCSS-8607	Local Store pools not transferrable linux to Mac
+  # 1h 100% HCSS-8427	ProductPool and Versionable have identical save method
+  # 5h 100% HCSS-8414	SerialClientPool does not pass methods to remote pool
+  # 4h 100% HCSS-8347	Versionable JavaDoc incomplete
+  # 0.5h 100% HCSS-8287	Remove deprecated method removeUrn from Versionable
+  # 4h 100% HCSS-8185	QueryTest generates random build errors
+  # 12h 100% HCSS-8057	setTag in AbstractProductPool is not thread-safe
+  # 4h 100% HCSS-7811	Deprecate Lockable interface on ProductPool
+  # 4h 100% HCSS-7315	Query not interruptible
+  # 6h 100% HCSS-5921	Inconsistent behaviour in PoolCreatorFactory
+  # 4h 100% HCSS-5189	PoolManager/StorageManager: Specification of XML config files
+  # 5h 100% HCSS-4268	Remove backwards compatibility with previous versioning implementation
+  # 0h 100% HCSS-3795	ProductStorage.select() should be cancellable
+
 ===== Done =====
 
 ==== Jingjing ====
