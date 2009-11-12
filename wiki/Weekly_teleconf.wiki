@@ -4,6 +4,7 @@
 ----
 == 2009-11-12 16:00 ==
 ==== Bo ====
+===== Done =====
   # 4h 100% HCSS-8681	Product is apparently copied when saved to a localstore
   # 1h 100% HCSS-8607	Local Store pools not transferrable linux to Mac
   # 1h 100% HCSS-8427	ProductPool and Versionable have identical save method
@@ -19,7 +20,6 @@
   # 5h 100% HCSS-4268	Remove backwards compatibility with previous versioning implementation
   # 0h 100% HCSS-3795	ProductStorage.select() should be cancellable
 
-===== Done =====
 
 ==== Jingjing ====
 ===== Done =====
