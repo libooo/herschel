@@ -2,7 +2,7 @@
 = Weekly teleconf minutes =
 
 ----
-== 2009-11-12 16:00 ==
+== 2009-11-19 16:30 ==
 ==== Bo ====
 ===== Done =====
   # 8h 100% HCSS-7704	HCSS Local Store very inefficient storing data
