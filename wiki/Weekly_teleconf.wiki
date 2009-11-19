@@ -11,6 +11,15 @@
   # 6H 100% HCSS-8724	Misleading message trying to retrieve delete Product
   # 4h 90%  HCSS-8514   Add a method getConfiguration() to ProductPool
 
+==== Jingjing ====
+===== Done =====
+ # HCSS-7448 CLONE -Plot SaveAs dialog should remember the last folder and format
+ # HCSS-8340 getDataCoords and getCoords problem with touchpad motion during click
+ # HCSS-8647 Confusing use "name" in PlotXY wrt LayerXY
+ # HCSS-5734 The Annotation panel in properties window need to be improved
+ # HCSS-8220 The dot plot symbol in PlotXY is invisible if size very small
+ # HCSS-8686 Can no longer launch PlotXY properties window with a right click.
+
 ----
 == 2009-11-12 16:00 ==
 ==== Bo ====
