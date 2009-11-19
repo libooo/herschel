@@ -5,6 +5,16 @@
 == 2009-11-12 16:00 ==
 ==== Bo ====
 ===== Done =====
+  # 8h 100% HCSS-7704	HCSS Local Store very inefficient storing data
+  # 4h 80%  HCSS-8717	TagManager thread-safety problem
+  # 4H 80%  HCSS-8720	AbstractProductPool thread-safety problem with tags
+  # 6H 100% HCSS-8724	Misleading message trying to retrieve delete Product
+  # 4h 90%  HCSS-8514   Add a method getConfiguration() to ProductPool
+
+----
+== 2009-11-12 16:00 ==
+==== Bo ====
+===== Done =====
   # 4h 100% HCSS-8681	Product is apparently copied when saved to a localstore
   # 1h 100% HCSS-8607	Local Store pools not transferrable linux to Mac
   # 1h 100% HCSS-8427	ProductPool and Versionable have identical save method
