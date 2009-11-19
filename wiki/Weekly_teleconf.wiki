@@ -26,6 +26,11 @@
  # HCSS-8220 The dot plot symbol in PlotXY is invisible if size very small
  # HCSS-8686 Can no longer launch PlotXY properties window with a right click.
 
+===== Planed =====
+ # HCSS-5915 Right- and middle-clicking on Mac does not work (the last part, configure editor)
+ # HCSS-6930 additional capability for PlotXY
+ # HCSS-5984 PlotXY attributes refused
+
 ----
 == 2009-11-12 16:00 ==
 ==== Bo ====
