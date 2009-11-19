@@ -11,6 +11,12 @@
   # 6H 100% HCSS-8724	Misleading message trying to retrieve delete Product
   # 4h 90%  HCSS-8514   Add a method getConfiguration() to ProductPool
 
+===== Planed =====
+  # HCSS-8217 ProductPool interface is ambiguous (and therefore implementations differ)
+  # HCSS-8766 PAL should not execute add rules on children when loading a context
+  # HCSS-8452 Migration of index data corrupts pool
+  # HCSS-6627 URN format /implementation/ assumes 32-bit instead of 64-bit identifiers
+
 ==== Jingjing ====
 ===== Done =====
  # HCSS-7448 CLONE -Plot SaveAs dialog should remember the last folder and format
