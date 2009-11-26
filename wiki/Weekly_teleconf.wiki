@@ -13,6 +13,15 @@
   # HCSS-8452 Migration of index data corrupts pool
   # HCSS-8687 Improve query performance
 
+==== Jingjing ====
+===== Done =====
+ # HCSS-5915 Right- and middle-clicking on Mac does not work (the last part, configure editor)
+ # HCSS-6930 additional capability for PlotXY
+ # HCSS-5984 PlotXY attributes refused
+===== Planed ===== 
+ # HCSS-8854 zoom or pan only on the active axis
+ # HCSS-8734 plotxy should have ability of an a fixed line marker to axis
+
 ----
 == 2009-11-19 16:30 ==
 ==== Bo ====
