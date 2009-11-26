@@ -2,6 +2,16 @@
 = Weekly teleconf minutes =
 ----
 == 2009-11-26 17:00 ==
+==== Bo ====
+===== Done =====
+  # 10h 80% HCSS-8217 ProductPool interface is ambiguous (and therefore implementations differ)
+  # 6h 100% HCSS-8766	PAL should not execute add rules on children when loading a context
+  # 4h 100% HCSS-6485	DPST1.0: Contexts are not saved if datasets are added
+  # 2h 100% HCSS-5212	Context Products not flag as dirty when inner datasets are updated
+  # 2h 100% HCSS-8809	accommodate lstore behavior to new added InterfaceContractTestGroup
+===== Planed ===== 
+  # HCSS-8452 Migration of index data corrupts pool
+  # HCSS-8687 Improve query performance
 
 ----
 == 2009-11-19 16:30 ==
