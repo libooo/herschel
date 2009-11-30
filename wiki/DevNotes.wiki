@@ -4,6 +4,6 @@
   * 检查是否有testsuite 使用了test.default, 貌似是由于这个机制覆盖了var.hcss.dir在coverage.properties的定义。最好不用test.default,  按需要在setup()中初始化所需configuration。
   * 还不行就把这个suite挪到AllTests.suite()的最前面...
 
-=== CheckOut 1.1 ===
+=== CheckOut 2.0 ===
 
-  * ec co -r BRANCH_HCSS_1_1 ia_io
+  * ec co -r BRANCH_HCSS_2_0 ia_pal
