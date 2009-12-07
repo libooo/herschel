@@ -1,8 +1,9 @@
-
 = Introduction =
 
-Link on [http://www.herschel.be/twiki/bin/view/Spire/IntegrationMeetingDecember2009 Herschel twiki].
+The link on [http://www.herschel.be/twiki/bin/view/Spire/IntegrationMeetingDecember2009 Herschel twiki].
 
 = Details =
 
-2009-12-07 Monday,  Arnie and Lijun are coming...
+==2009-12-07 Monday==  
+
+Arnie and Lijun are coming...
