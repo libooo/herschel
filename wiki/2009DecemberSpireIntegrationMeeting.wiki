@@ -1,9 +1,7 @@
-#summary One-sentence summary of this page.
 
 = Introduction =
 
-Add your content here.
-
+Link on [http://www.herschel.be/twiki/bin/view/Spire/IntegrationMeetingDecember2009 Herschel twiki].
 
 = Details =
 
