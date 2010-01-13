@@ -21,6 +21,9 @@
  * HCSS-9081 Many test harnesses fail on Mac OS X
  * HCSS-9084 Every property should have a fallback value
  * HCSS-9103 Exception when saving preferences
+===== Planed =====
+ * HCSS-9091 PlotXY.getLegend().setFontSize() has no effect
+ * properties editor not work on mac os x
 
 ----
 == 2009-11-26 17:00 ==
