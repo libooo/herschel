@@ -1,5 +1,17 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
+
+----
+
+== 2010-01-12 16:30 ==
+
+==== Jingjing ====
+===== Done =====
+ * HCSS-8978 Fit chart to container with target size
+ * HCSS-9081 Many test harnesses fail on Mac OS X
+ * HCSS-9084 Every property should have a fallback value
+ * HCSS-9103 Exception when saving preferences
+
 ----
 == 2009-11-26 17:00 ==
 ==== Bo ====
