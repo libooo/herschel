@@ -4,6 +4,19 @@
 == 2009-11-26 17:00 ==
 ==== Bo ====
 ===== Done =====
+  # 3d 70% HCSS-8687 Improve query performance
+    Lucene query prototype
+  # 1d 50% HCSS-8963 Reference counting inside a pool
+
+===== Planed =====
+  # HCSS-8963	Reference counting inside a pool	
+  # HCSS-8962	Remove hard coded pool id from the internal references of Context to child products in their own pool
+  # HCSS-9094   HttpClientPool does not pass methods to remote pool
+
+----
+== 2009-11-26 17:00 ==
+==== Bo ====
+===== Done =====
   # 10h 80% HCSS-8217 ProductPool interface is ambiguous (and therefore implementations differ)
   # 6h 100% HCSS-8766	PAL should not execute add rules on children when loading a context
   # 4h 100% HCSS-6485	DPST1.0: Contexts are not saved if datasets are added
