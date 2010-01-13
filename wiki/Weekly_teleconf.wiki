@@ -4,16 +4,6 @@
 ----
 
 == 2010-01-12 16:30 ==
-
-==== Jingjing ====
-===== Done =====
- * HCSS-8978 Fit chart to container with target size
- * HCSS-9081 Many test harnesses fail on Mac OS X
- * HCSS-9084 Every property should have a fallback value
- * HCSS-9103 Exception when saving preferences
-
-----
-== 2009-11-26 17:00 ==
 ==== Bo ====
 ===== Done =====
   # 3d 70% HCSS-8687 Improve query performance
@@ -24,6 +14,13 @@
   # HCSS-8963	Reference counting inside a pool	
   # HCSS-8962	Remove hard coded pool id from the internal references of Context to child products in their own pool
   # HCSS-9094   HttpClientPool does not pass methods to remote pool
+
+==== Jingjing ====
+===== Done =====
+ * HCSS-8978 Fit chart to container with target size
+ * HCSS-9081 Many test harnesses fail on Mac OS X
+ * HCSS-9084 Every property should have a fallback value
+ * HCSS-9103 Exception when saving preferences
 
 ----
 == 2009-11-26 17:00 ==
