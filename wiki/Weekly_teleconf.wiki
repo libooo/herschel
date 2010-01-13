@@ -11,9 +11,18 @@
   # 1d 50% HCSS-8963 Reference counting inside a pool
 
 ===== Planed =====
+
   # HCSS-8963	Reference counting inside a pool	
   # HCSS-8962	Remove hard coded pool id from the internal references of Context to child products in their own pool
+  # HCSS-7521	AttributeContainer.FakeProduct must provide a getDescription() method
+
+I wish these updates could be committed together as they all need to rebuild index.
+
+Besides I will work on:
   # HCSS-9094   HttpClientPool does not pass methods to remote pool
+  # HCSS-7404   Implement Java query API  
+  # HCSS-8960	Introduce URN Object to Pal
+
 
 ==== Jingjing ====
 ===== Done =====
