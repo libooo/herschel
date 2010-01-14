@@ -1,3 +1,16 @@
+=== HttpPool Server 部署时出现 ImportError: no module named herschel
+
+在Eclipse里按照 http://www.herschel.be/twiki/bin/view/Hcss/HttpPool 步骤部署后，出现
+
+严重: Allocate exception for servlet pal
+Traceback (innermost last):
+  File "<string>", line 1, in ?
+ImportError: no module named herschel
+
+而把整个WebContent目录copy到tomcat/webapps下就没有问题，可能的原因是：
+HttpPoolServlet中使用Utils.addLisToClassPath() 造成classpath超长造成的， 因为Eclipse的部署路径太长，例如： Setting classpath to D:\dev\apache-tomcat-6.0.20\bin\bootstrap.jar;D:\dev\jdk1.6.0_16\lib\tools.jar:E:\NAOC\branch_hcss_develop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\hcss\WEB-INF\lib/access_1.73.jar:E:\NAOC\branch_hcss_develop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\hcss\WEB-INF\lib/auxprocessors_0.81.jar:E:\NAOC\branch_hcss_develop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\hcss\WEB-INF\lib/avalon-framework-4.2.0.jar:E:\NAOC\branch_hcss_develop\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\hcss\WEB-INF\lib/batik-all-1.6.jar
+....
+
 === 关于有些测试代码运行时报类似 undefined user.home in var.hcss.dir 的错误 ===
 
   * 检查是否有testsuite 使用suite.addTest(FitsProductImporterTest.suite());添加的， 最好用 ·suite.addTest(new TestSuite(StubStorageManagerTest.class));·
