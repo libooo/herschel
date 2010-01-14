@@ -1,4 +1,4 @@
-=== HttpPool Server 部署时出现 ImportError: no module named herschel
+=== HttpPool Server 部署时出现 ImportError: no module named herschel ===
 
 在Eclipse里按照 http://www.herschel.be/twiki/bin/view/Hcss/HttpPool 步骤部署后，出现
 
