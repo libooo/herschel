@@ -9,13 +9,13 @@
   # 2h 100% HCSS-9088 HttpClientPool needs getProjectInfo
   # 1d 50% HCSS-8962 Remove hard coded pool id from the internal references of Context to child products in their own pool
   # 4h 50% HCSS-8687 Improve query performance
-    Test Lucene 3.0 numberic support. Decrease the percentage of accomplishment for more effort needed to adopt new Lucene features.
+    Test Lucene 3.0 numberic support. Decrease the percentage of accomplishment for more effort is needed to adopt new Lucene features.
 
 ===== Planed =====
 
-  # HCSS-8963 Reference counting inside a pool	
+  # HCSS-8687 Improve query performance
   # HCSS-8962 Remove hard coded pool id from the internal references of Context to child products in their own pool
-  # HCSS-8687 Improve query performance 
+  # HCSS-8963 Reference counting inside a pool	
   # HCSS-8960 Introduce URN Object to Pal
   # HCSS-7404 Implement Java query API 
 
