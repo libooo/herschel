@@ -2,6 +2,19 @@
 = Weekly teleconf minutes =
 
 ----
+== 2010-01-20 16:30 ==
+==== Bo ====
+===== Done =====
+  # 4h 100% HCSS-9094 HttpClientPool does not pass methods to remote pool
+  # 2h 100% HCSS-9088 HttpClientPool needs getProjectInfo
+
+===== Planed =====
+
+  # HCSS-8963 Reference counting inside a pool	
+  # HCSS-8962 Remove hard coded pool id from the internal references of Context to child products in their own pool
+  # HCSS-8687 Improve query performance 
+  # HCSS-8960 Introduce URN Object to Pal
+  # HCSS-7404 Implement Java query API 
 
 == 2010-01-12 16:30 ==
 ==== Bo ====
