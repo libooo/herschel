@@ -16,6 +16,14 @@
   # HCSS-8960 Introduce URN Object to Pal
   # HCSS-7404 Implement Java query API 
 
+==== Jingjing ====
+===== Done =====
+ * HCSS-9091 PlotXY.getLegend().setFontSize() has no effect
+ * HCSS-9145	not possible to change plot size after creation
+===== Planed =====
+ * HCSS-9179	check axis status before accessing
+ * properties editor not work on mac os x
+
 == 2010-01-12 16:30 ==
 ==== Bo ====
 ===== Done =====
