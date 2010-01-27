@@ -2,6 +2,22 @@
 = Weekly teleconf minutes =
 
 ----
+== 2010-01-27 16:30 ==
+==== Bo ====
+===== Done =====
+  # 4h 100% HCSS-8962 Remove hard coded pool id from the internal references of Context to child products in their own pool
+  # 2d 80% HCSS-8687 Improve query performance
+    Lucene 3.0 integration, numberic support. Prototype committed in Jira system for feedback. 
+
+===== Planed =====
+
+  # HCSS-8687 Improve query performance
+  # HCSS-8963 Reference counting inside a pool	
+  # HCSS-8960 Introduce URN Object to Pal
+  # HCSS-7404 Implement Java query API 
+
+
+----
 == 2010-01-20 16:30 ==
 ==== Bo ====
 ===== Done =====
