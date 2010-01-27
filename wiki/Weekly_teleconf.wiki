@@ -16,6 +16,13 @@
   # HCSS-8960 Introduce URN Object to Pal
   # HCSS-7404 Implement Java query API 
 
+==== Jingjing ====
+===== Done =====
+ * HCSS-9125 PlotXY setXtype(axis.RIGHT_ASCENSION) mishandles the right ascension values (CIB track 3.0)
+ * HCSS-9283 Rename "PlotXY viewer" preferences category to follow convention
+===== Planed =====
+ * HCSS-9125 PlotXY setXtype(axis.RIGHT_ASCENSION) mishandles the right ascension values (Patch CIB track 2.0)
+ * HCSS-9285 Can't change input number in properties editor
 
 ----
 == 2010-01-20 16:30 ==
