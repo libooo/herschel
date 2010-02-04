@@ -6,17 +6,17 @@
 == 2010-02-04 16:30 ==
 ==== Bo ====
 ===== Done =====
-  # 2h 80% HCSS-8777: Deprecate ProductPool setReadOnly and isReadOnly
-  # 1h 80% HCSS-8514: Add a method getConfiguration() to ProductPool
+  * 2h 80% HCSS-8777: Deprecate ProductPool setReadOnly and isReadOnly
+  * 1h 80% HCSS-8514: Add a method getConfiguration() to ProductPool
   Pending for PACS-2316 herschel.pacs.toolboxes.pal.LocalPool should extend from AbstractProductPool
  
 ===== Planed =====
 
-  # HCSS-8687 Improve query performance
-  # HCSS-8963 Reference counting inside a pool
+  * HCSS-8687 Improve query performance
+  * HCSS-8963 Reference counting inside a pool
   Pending for HCSS-9186: Analyze if Lucene 3.0 could be added to the reference platform	
-  # HCSS-8960 Introduce URN Object to Pal
-  # HCSS-7404 Implement Java query API 
+  * HCSS-8960 Introduce URN Object to Pal
+  * HCSS-7404 Implement Java query API 
 
 ==== Jingjing ====
 ===== Done =====
