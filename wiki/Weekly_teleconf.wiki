@@ -18,6 +18,13 @@
   # HCSS-8960 Introduce URN Object to Pal
   # HCSS-7404 Implement Java query API 
 
+==== Jingjing ====
+===== Done =====
+ * HCSS-9285 Can't change input number in properties editor
+===== Planed =====
+ * HCSS-5144	DPAT0: UNDO button in the plot GUI
+ * HCSS-7312	refactor properties panel to fit the preference editor
+
 ----
 == 2010-01-27 16:30 ==
 ==== Bo ====
