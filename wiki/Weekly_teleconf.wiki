@@ -1,6 +1,18 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2010-02-11 16:30 ==
+==== Bo ====
+===== Done =====
+===== Planed =====
+
+==== Jingjing ====
+===== Done =====
+ * HCSS-9125 (patch compiled) PlotXY setXtype(axis.RIGHT_ASCENSION) mishandles the right ascension values
+ * HCSS-9435 (patch compiled) PlotXY newly created object in a NEW HIPE session crashes when batch is set to 1 (java.lang.error)
+===== Planed =====
+ * HCSS-5144	DPAT0: UNDO button in the plot GUI
+ * HCSS-7312	refactor properties panel to fit the preference editor
 
 ----
 == 2010-02-04 16:30 ==
