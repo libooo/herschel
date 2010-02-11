@@ -8,10 +8,11 @@
   * 1h 90% HCSS-8514: Add a method getConfiguration() to ProductPool
   PACS-2316 resolved, waiting for manual build
   * 1d 75% HCSS-7404 Implement Java query API
-  Proto version committed  
+  Proto version committed
+  * 4h 60% HCSS-8963 Reference counting inside a pool
+  
 ===== Planed =====
   * HCSS-8687 Improve query performance
-  * HCSS-8963 Reference counting inside a pool
   Pending for INFR-386: Upgrade of external LUCENE library required	
   * HCSS-8960 Introduce URN Object to Pal
   * HCSS-7404 Implement Java query API 
