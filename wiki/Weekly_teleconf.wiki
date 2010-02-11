@@ -9,7 +9,7 @@
   PACS-2316 resolved, waiting for manual build
   * 1d 75% HCSS-7404 Implement Java query API
   Proto version committed
-  *TODO: should add java/jython example on the java doc* 
+*TODO: should add java/jython example on the java doc* 
   * 4h 60% HCSS-8963 Reference counting inside a pool
   
 ===== Planed =====
