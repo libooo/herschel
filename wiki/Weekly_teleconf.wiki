@@ -9,11 +9,7 @@
   * 2h	HCSS-5601	Request for Recursive Delete Function
   * 8h	HCSS-8962	Remove hard coded pool id from the internal references of Context to child products in their own pool
   * 1h	HCSS-4288	Pool names no longer accept spaces
-  * 7h	HCSS-8514	Add a method getConfiguration() to ProductPool
   * 2h	HCSS-4566	Problem with products that have a type that starts with a blank
-  * 8h	HCSS-5072	Locking implementation can hang all future sessions
-  * 4h	HCSS-7811	Deprecate Lockable interface on ProductPool
-  * 1h	HCSS-8777	Deprecate ProductPool setReadOnly and isReadOnly
   * 4h	HCSS-9393	ProductRef is not thread-safe
   * 1h	HCSS-9673	Violation of interface contract in AbstractProductPool
   * 10h	HCSS-8960	Introduce URN Object to Pal
