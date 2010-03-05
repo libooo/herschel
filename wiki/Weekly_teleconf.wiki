@@ -1,6 +1,30 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
+----
+== 2010-03-05 16:30 ==
+==== Bo ====
+===== Done =====
+  * 4h	HCSS-9693	Remove hard coded pool id from the tags/urns mapping
+  * 12h	HCSS-7404	Implement Java query API
+  * 2h	HCSS-5601	Request for Recursive Delete Function
+  * 8h	HCSS-8962	Remove hard coded pool id from the internal references of Context to child products in their own pool
+  * 1h	HCSS-4288	Pool names no longer accept spaces
+  * 7h	HCSS-8514	Add a method getConfiguration() to ProductPool
+  * 2h	HCSS-4566	Problem with products that have a type that starts with a blank
+  * 8h	HCSS-5072	Locking implementation can hang all future sessions
+  * 4h	HCSS-7811	Deprecate Lockable interface on ProductPool
+  * 1h	HCSS-8777	Deprecate ProductPool setReadOnly and isReadOnly
+  * 4h	HCSS-9393	ProductRef is not thread-safe
+  * 1h	HCSS-9673	Violation of interface contract in AbstractProductPool
+  * 10h	HCSS-8960	Introduce URN Object to Pal
+  * 12h	HCSS-8963	Reference counting inside a pool
+  * 1h	HCSS-9707	Save not thread-safe for new LocalStores
+===== Planed =====
+  * HCSS-8687 Improve query performance
+  * HCSS-7793 Provide a means to rename a pool.
+  Both were failed to integrated in 3.0 due to test fail on hifi and pacs, still under investigation.
 
+----
 == 2010-02-11 16:30 ==
 ==== Bo ====
 ===== Done =====
