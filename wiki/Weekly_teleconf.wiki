@@ -18,7 +18,7 @@
 ===== Planed =====
   * HCSS-8687 Improve query performance
   * HCSS-7793 Provide a means to rename a pool.
-  Both were failed to integrated in 3.0 due to tests failed on hifi and pacs, still under investigation.
+  Both were failed to be integrated into 3.0 due to tests fail on hifi and pacs, still under investigation.
 
 ----
 == 2010-02-11 16:30 ==
