@@ -20,6 +20,16 @@
   * HCSS-7793 Provide a means to rename a pool.
   Both were failed to be integrated into 3.0 due to tests fail on hifi and pacs, still under investigation.
 
+==== Jingjing ====
+===== Done =====
+ * HCSS-9466 Remove Graphics/Plotting category from preferences
+ * HCSS-9665 subplot has no default constraints
+ * HCSS-9666 Interactive zoom no longer works properly in plots
+===== Planed =====
+ * HCSS-5144	DPAT0: UNDO button in the plot GUI
+ * HCSS-7312	refactor properties panel to fit the preference editor
+
+
 ----
 == 2010-02-11 16:30 ==
 ==== Bo ====
