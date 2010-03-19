@@ -4,6 +4,11 @@
 == 2010-03-19 16:30 ==
 ==== Bo ====
 ===== Done =====
+ * HCSS-7793	Provide a means to rename a pool.
+ * HCSS-8182	AbstractrProductPool.load(String) visibility
+ * HCSS-8687	Improve query performance
+ * HCSS-9742	Urn class problem with equals method
+ * HCSS-9790	Let PoolDefinition be serializable
 
 ==== Jingjing ====
 ===== Done =====
