@@ -1,6 +1,19 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 ----
+== 2010-03-19 16:30 ==
+==== Bo ====
+===== Done =====
+
+==== Jingjing ====
+===== Done =====
+ * HCSS-9723 Plot throws exceptions that should not be thrown
+ * HCSS-9758 DPST3.0:PlotXY view
+ * HCSS-9871 Plot hangs application for 1 minute before exiting
+===== Planed =====
+ * HCSS-5144	DPAT0: UNDO button in the plot GUI
+ * HCSS-7312	refactor properties panel to fit the preference editor
+----
 == 2010-03-05 16:30 ==
 ==== Bo ====
 ===== Done =====
