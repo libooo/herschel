@@ -1,6 +1,6 @@
 Herschel软件开发论文准备
 
-[Herschel Common]
+[HerschelCommon]
 
 [PLOT]
 
