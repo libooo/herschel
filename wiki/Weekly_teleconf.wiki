@@ -14,7 +14,8 @@
  *  2h HCSS-9917	Programs using local store do not terminate		
  *  2h HCSS-9921	Queries fail on pools with updated index
 ===== Planed =====
- 
+ * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory 
+ * HCSS-9966 New ingest functionality is required
 
 
 ==== Jingjing ====
