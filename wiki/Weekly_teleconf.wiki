@@ -1,6 +1,9 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2010-04-08 15:30 (7:30 GMT) ==
+----
+
 ----
 == 2010-04-01 16:30 ==
 ==== Bo ====
