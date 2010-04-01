@@ -5,6 +5,17 @@
 == 2010-04-01 16:30 ==
 ==== Bo ====
 ===== Done =====
+ *  4h HCSS-9071	Stacktrace from Product Browser when creating new LocalStore		
+ *  4h HCSS-9142	PAL interfaces should specify that containers shall be serializable		
+ *  4h HCSS-9504	The "obsid" problem		
+ *  4h HCSS-9741	AbstractProductPool.save(Product) has unfavourable implementation		
+ *  4h HCSS-9795	Move herschel.ia.pal.browser.v2.table.model.StorageResult to herschel.ia.pal.util			
+ *  2h HCSS-9903	Add getTypeName() to Urn object and throw IllegalArgumentException in getType() instead of return null when the class definition not found
+ *  2h HCSS-9917	Programs using local store do not terminate		
+ *  2h HCSS-9921	Queries fail on pools with updated index
+===== Planed =====
+ 
+
 
 ==== Jingjing ====
 ===== Done =====
