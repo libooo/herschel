@@ -1,5 +1,15 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
+
+----
+== 2010-04-01 16:30 ==
+==== Bo ====
+===== Done =====
+
+==== Jingjing ====
+===== Done =====
+ * HCSS-9597 Simplify the possibility of aux axis to have different units
+ * HCSS-5144 (20% done)	DPAT0: UNDO button in the plot GUI
 ----
 == 2010-03-19 16:30 ==
 ==== Bo ====
