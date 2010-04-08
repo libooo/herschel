@@ -13,6 +13,9 @@
  * HCSS-10012	Bulk data transfer fails to write to NFS-mounted disk
  * HCSS-10014	Local store save performance and transactions
  * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory
+==== Jingjing ====
+===== Done =====
+ * HCSS-5144 (40% done)	DPAT0: UNDO button in the plot GUI
 
 ----
 == 2010-04-01 16:30 ==
