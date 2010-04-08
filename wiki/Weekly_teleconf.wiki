@@ -6,9 +6,9 @@
 ==== Bo ====
 ===== Done =====
  * 2h HCSS-9221 StoredVersionHandler.checkTrackId() may throw IndexOutOfBoundsException
- * 1h HCSS-9266	PoolCreator.createPool doesn't need first argument
+ * 2h 25% HCSS-9266	PoolCreator.createPool doesn't need first argument
  * 4h HCSS-9632	LocalStore performance: remove
- * 2h HCSS-9966 New ingest functionality is required
+ * 2h 80% HCSS-9966 New ingest functionality is required
 ===== Planed =====
  * HCSS-10012	Bulk data transfer fails to write to NFS-mounted disk
  * HCSS-10014	Local store save performance and transactions
