@@ -3,6 +3,16 @@
 
 == 2010-04-08 15:30 (7:30 GMT) ==
 ----
+==== Bo ====
+===== Done =====
+ * 2h HCSS-9221 StoredVersionHandler.checkTrackId() may throw IndexOutOfBoundsException
+ * 1h HCSS-9266	PoolCreator.createPool doesn't need first argument
+ * 4h HCSS-9632	LocalStore performance: remove
+ * 2h HCSS-9966 New ingest functionality is required
+===== Planed =====
+ * HCSS-10012	Bulk data transfer fails to write to NFS-mounted disk
+ * HCSS-10014	Local store save performance and transactions
+ * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory
 
 ----
 == 2010-04-01 16:30 ==
