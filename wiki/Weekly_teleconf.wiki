@@ -3,6 +3,18 @@
 
 ----
 == 2010-04-20 15:30 (7:30 GMT) ==
+  * 1h	HCSS-5700	Pools expose unnecessary interfaces to the global user
+  * 4h 	HCSS-9551	LocalStore throws Exceptions when reading from a store that contains CVS directories
+  * 4h 	HCSS-9735	Add a removeAll method to ProductPool interface		
+  * 0.5h 	HCSS-9754	CachedPool cannot be recreated from XML config & doc update
+  * 0.5h 	HCSS-9788	Doc update: HTTP PoolCreator parameters								
+  * 1h 	HCSS-9789	Missing property: HTTP Pool Creator					
+  * 4h 	HCSS-9937	Override methods implemented in AbstractProductPool that only delegated to pool's deprecated methods					
+  * 2h 	HCSS-9966	New ingest functionality is required													
+  * 4h 	HCSS-10050	Deadlock on the HSA serial daemon													
+  * 3h 	HCSS-10072	Inconsistent query behaviour with longs expressed as hex or decimal		
+  * 1h 	HCSS-10075	Wrong query result with negative declination
+
 
 ----
 == 2010-04-08 15:30 (7:30 GMT) ==
