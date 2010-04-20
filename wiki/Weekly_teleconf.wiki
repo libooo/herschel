@@ -3,6 +3,9 @@
 
 ----
 == 2010-04-20 15:30 (7:30 GMT) ==
+
+==== Bo ====
+==== Done ====
   * 1h	HCSS-5700	Pools expose unnecessary interfaces to the global user
   * 4h 	HCSS-9551	LocalStore throws Exceptions when reading from a store that contains CVS directories
   * 4h 	HCSS-9735	Add a removeAll method to ProductPool interface		
@@ -14,7 +17,9 @@
   * 4h 	HCSS-10050	Deadlock on the HSA serial daemon													
   * 3h 	HCSS-10072	Inconsistent query behaviour with longs expressed as hex or decimal		
   * 1h 	HCSS-10075	Wrong query result with negative declination
-
+===== Planed =====
+ * HCSS-10014	Local store save performance and transactions
+ * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory
 
 ----
 == 2010-04-08 15:30 (7:30 GMT) ==
