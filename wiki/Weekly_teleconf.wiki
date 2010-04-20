@@ -20,6 +20,12 @@
 ===== Planed =====
  * HCSS-10014	Local store save performance and transactions
  * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory
+==== Jingjing ====
+===== Done =====
+ * HCSS-5886	Miss leading axis tick representation
+ * HCSS-10081	Uncatchable exception is throwing from PlotXY which causes the application into a dead state
+===== Planed =====
+ * HCSS-5144	DPAT0: UNDO button in the plot GUI
 
 ----
 == 2010-04-08 15:30 (7:30 GMT) ==
