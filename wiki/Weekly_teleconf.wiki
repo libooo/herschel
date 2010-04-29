@@ -11,6 +11,7 @@
 ===== Done =====
  * HCSS-5144	DPAT0: UNDO button in the plot GUI
 ===== Planed =====
+ * HCSS-6970	take cursor coordinates and calculate distances
  * HCSS-7312	refactor properties panel to fit the preference edtor
 ----
 == 2010-04-20 15:30 (7:30 GMT) ==
