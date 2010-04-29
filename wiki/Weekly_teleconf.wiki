@@ -1,6 +1,17 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+== 2010-04-29 15:30 (7:30 GMT) ==
+
+==== Bo ====
+==== Done ====
+
+
+==== Jingjing ====
+===== Done =====
+ * HCSS-5144	DPAT0: UNDO button in the plot GUI
+===== Planed =====
+ * HCSS-7312	refactor properties panel to fit the preference edtor
 ----
 == 2010-04-20 15:30 (7:30 GMT) ==
 
