@@ -5,7 +5,19 @@
 
 ==== Bo ====
 ==== Done ====
+ *  8h HCSS-5885	Request method to obtain pool type key from PoolCreatorFactory												
+ *	8h HCSS-9266	PoolCreator.createPool doesn't need first argument														
+ *	4h HCSS-9882	Provide a way to know existing pool types in PAL													
+ *	4h HCSS-9940	Override methods implemented in AbstractProductPool that only delegated to pool's deprecated methods															
+ *	4h HCSS-10056	Introduce URN object to "Versionable" interface (Pal)														
+ *	1h HCSS-10133	HTTP pool docs not present in installed build														
+ *	4h HCSS-10158	LocalStore cannot handle more than 10k products of a single type														
+ *	4h HCSS-10168	Error in SerialClientPool.getUrnObject														
+ *	1h HCSS-10192	Allow turning off of backup when reindexing			
 
+===== Planed =====
+ * HCSS-10014	Local store save performance and transactions
+ * HCSS-10056	Introduce URN object to "Versionable" interface (Pal)
 
 ==== Jingjing ====
 ===== Done =====
