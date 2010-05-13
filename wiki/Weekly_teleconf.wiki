@@ -3,6 +3,31 @@
 
 == 2010-05-13 15:30 (7:30 GMT) ==
 
+==== Bo ====
+===== Done =====
+* 16h 70%  HCSS-10014	Local store save performance and transactions
+* 8h    HCSS-10105	Implement saveProductRef()
+* 2h    HCSS-5609	ObservationSaveStrategy changes metadata					          
+* 2h	HCSS-7347	ServerClientPool interface needed in ia_pal									
+* 9h	HCSS-8964	new method purge(ref) to remove all previous versions of a product
+* 2h	HCSS-9266	PoolCreator.createPool doesn't need first argument					
+* 4h	HCSS-9384	Refine query doesn't work correctly for different versions 
+* 2h	HCSS-9685	removing deprecated code(http pool)									        
+* 2h	HCSS-9686	removing deprecated code(lstore)								            
+* 2h	HCSS-9936	Clear the wrapper methods that depends on deprecated methods
+* 2h	HCSS-10053	schema evolution should not be allowed until user specific
+* 8h	HCSS-10276	AbstractProductPool needs save(ProductRef)								
+* 4h	HCSS-10277	Wrong number of results for observation context query			
+* 1h	HCSS-10286	Add interface CachingPool										              
+* 2h	HCSS-10314	removing deprecated code(serial pool)											
+* 1h	HCSS-10315	Add method makeDefaultParameters to LocalStoreFactory			
+* 1h	HCSS-10317	Add method makeDefaultParameters to SerialClientFactory		
+
+==== Planed ====
+* HCSS-10014	Local store save performance and transactions
+* HCSS-10272	The pool evolver performance shall be improved	
+* HCSS-10270	In case of failure of the pool evolver, the SW must provide automatic recovery of the backed up data
+
 ==== Jingjing ====
 ===== Done =====
  * 12h HCSS-6970	take cursor coordinates and calculate distances
