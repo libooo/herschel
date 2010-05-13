@@ -3,6 +3,13 @@
 
 == 2010-04-29 15:30 (7:30 GMT) ==
 
+==== Jingjing ====
+===== Done =====
+ * HCSS-6970	take cursor coordinates and calculate distances
+===== Planed =====
+ * HCSS-7312	refactor properties panel to fit the preference edtor
+----
+
 ==== Bo ====
 ==== Done ====
  *  8h HCSS-5885	Request method to obtain pool type key from PoolCreatorFactory												
