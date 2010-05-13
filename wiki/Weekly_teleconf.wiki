@@ -10,6 +10,18 @@
  * HCSS-7312	refactor properties panel to fit the preference edtor
 ----
 
+==== Dongqing ====
+===== Done =====
+ * 3d Reading hcss and PAL document. 
+ * 2h HCSS-10318	Add method makeDefaultParameters to HttpClientFactory
+ * 3h HCSS-5609	ObservationSaveStrategy changes metadata	
+===== Planed =====
+ * HCSS-4587	Property subsitution in XML config files	
+ * HCSS-5609	ObservationSaveStrategy changes metadata	
+ * HCSS-9722	Add test harness for http client pool	
+ * HCSS-9856	Can't save to HTTP pool----
+
+
 == 2010-04-29 15:30 (7:30 GMT) ==
 
 ==== Bo ====
