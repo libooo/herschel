@@ -1,14 +1,16 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
-== 2010-04-29 15:30 (7:30 GMT) ==
+== 2010-05-13 15:30 (7:30 GMT) ==
 
 ==== Jingjing ====
 ===== Done =====
- * HCSS-6970	take cursor coordinates and calculate distances
+ * 12h HCSS-6970	take cursor coordinates and calculate distances
 ===== Planed =====
  * HCSS-7312	refactor properties panel to fit the preference edtor
 ----
+
+== 2010-04-29 15:30 (7:30 GMT) ==
 
 ==== Bo ====
 ==== Done ====
