@@ -40,7 +40,7 @@
 ===== Done =====
  * 3d Reading hcss and PAL document. 
  * 2h HCSS-10318	Add method makeDefaultParameters to HttpClientFactory
- * 3h HCSS-5609	ObservationSaveStrategy changes metadata	
+ * 3h 20% HCSS-5609	ObservationSaveStrategy changes metadata	
 ===== Planed =====
  * HCSS-4587	Property subsitution in XML config files	
  * HCSS-5609	ObservationSaveStrategy changes metadata	
