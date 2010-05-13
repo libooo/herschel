@@ -17,7 +17,7 @@
   * 2h	HCSS-9686	removing deprecated code(lstore)								            
   * 2h	HCSS-9936	Clear the wrapper methods that depends on deprecated methods
   * 2h	HCSS-10053	schema evolution should not be allowed until user specific
-  * 8h	HCSS-10276	AbstractProductPool needs save(ProductRef)								
+  * 1h	HCSS-10276	AbstractProductPool needs save(ProductRef)								
   * 4h	HCSS-10277	Wrong number of results for observation context query			
   * 1h	HCSS-10286	Add interface CachingPool										              
   * 2h	HCSS-10314	removing deprecated code(serial pool)											
