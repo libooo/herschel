@@ -5,6 +5,22 @@
 
 ==== Bo ====
 ===== Done =====
+  * 16h 80% HCSS-10272	The pool evolver performance shall be improved
+  * 8h 80% HCSS-10014	Local store save performance and transactions
+  * 8h HCSS-9384 Refine query doesn't work correctly for different versions of the same product
+  * 2h HCSS-5615 Inconsistent handling of nonexistent local store directory
+  * 2h(Test and code review) HCSS-9912 UnsupportedOperationException when saving to HttpClientPool
+===== Planed =====
+  * HCSS-10272	The pool evolver performance shall be improved	
+  * HCSS-10270	In case of failure of the pool evolver, the SW must provide automatic recovery of the backed up data	
+  * HCSS-10014	Local store save performance and transactions
+  * HCSS-10299 Ingest functionality must be updated
+
+----
+== 2010-05-13 15:30 (7:30 GMT) ==
+
+==== Bo ====
+===== Done =====
 
   * 16h 70%  HCSS-10014	Local store save performance and transactions
   * 8h    HCSS-10105	Implement saveProductRef()
