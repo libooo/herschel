@@ -24,12 +24,12 @@
 ===== Done =====
  * HCSS-9856	Can't save to HTTP pool
  * HCSS-10379	Provide a user friendly pool name(http)
+ * HCSS-10378	Provide a user friendly pool name(serial pool)
  * 2h 90% HCSS-5609   ObservationSaveStrategy changes metadata	
 
 ==== Planed ====
  * HCSS-5609	ObservationSaveStrategy changes metadata	
  * HCSS-9722	Add test harness for http client pool	
- * HCSS-10378	Provide a user friendly pool name(serial pool)
  * HCSS-8422	ProductStorage should send notification if the product classes have changed
 ----
 == 2010-05-13 15:30 (7:30 GMT) ==
