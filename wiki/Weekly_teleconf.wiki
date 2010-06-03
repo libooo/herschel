@@ -11,8 +11,18 @@
   * 2h HCSS-10436	(For HCSS4.0) schema evolution should not be allowed until user specifically allows it.
   * 2h HCSS-10412	"too many files open" error when updating pools
   * 8h HCSS-10311	Interruption in IndexManager
+  * 2h HCSS-5609	ObservationSaveStrategy changes metadata	
+  * 8h HCSS-9722	Add test harness for http client pool	
+  * 4h HCSS-8422	ProductStorage should send notification if the product classes have changed
+  * 1h HCSS-9792	PoolManager.getInstance needs sync and API clean-up
+  * 2h HCSS-10427	Adding exceptions to CachingPool interface
+  * 8h HCSS-4635	StoreManager/PoolManager should search classpath for config files
 ===== Planed =====
-  * 
+ * HCSS-4587	Property substitution in XML config files	
+ * HCSS-6957	Data Pool consistency checker	
+ * HCSS-10415	PoolManager.contains(String) is misleading and badly documented or incomplete	
+ * HCSS-10426	PoolManager and StorageManager should know about PAL preferences	
+ * HCSS-9400	Storing a large parameter description (2MB) in an lstore takes forever
 
 ==== PLOT ====
 ===== Done =====
