@@ -1,6 +1,26 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 
+----
+
+== 2010-06-03 15:30 (7:30 GMT) ==
+==== PAL ====
+===== Done =====
+  * 7h HCSS-10299       Ingest functionality must be updated
+  * 1h HCSS-9389	MultiThreadTestCase should have time-out
+  * 2h HCSS-10436	(For HCSS4.0) schema evolution should not be allowed until user specifically allows it.
+  * 2h HCSS-10412	"too many files open" error when updating pools
+  * 8h HCSS-10311	Interruption in IndexManager
+===== Planed =====
+  * 
+
+==== PLOT ====
+===== Done =====
+  * 
+===== Planed =====
+  *
+
+----
 == 2010-05-20 15:30 (7:30 GMT) ==
 
 ==== Bo ====
