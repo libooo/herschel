@@ -18,7 +18,8 @@
 ===== Done =====
   * 
 ===== Planed =====
-  *
+  * HCSS-10459	Hipe Frozen when try to open data
+  * HCSS-10463	SpectrumExplorer should auto-scale a SpireSpectrum1d
 
 ----
 == 2010-05-20 15:30 (7:30 GMT) ==
