@@ -25,8 +25,6 @@
  * HCSS-9400	Storing a large parameter description (2MB) in an lstore takes forever
 
 ==== PLOT ====
-===== Done =====
-  * 
 ===== Planed =====
   * HCSS-10459	Hipe Frozen when try to open data
   * HCSS-10463	SpectrumExplorer should auto-scale a SpireSpectrum1d
