@@ -7,17 +7,19 @@
 ===== Done =====
  * 3.5h HCSS-4587	Property substitution in XML config files	 
  * 0.5h HCSS-10415	PoolManager.contains(String) is misleading and badly documented or incomplete
+ * 1h HCSS-10490	Avoid registration of SerialClientFactory
+ * 4h HCSS-10491	PACS Calibration Store throws exception when accessed
 
 ===== Planed =====
  * HCSS-10426	PoolManager and StorageManager should know about PAL preferences	
  * HCSS-9400	Storing a large parameter description (2MB) in an lstore takes forever
 
 ==== PLOT ====
+===== Done =====
+  * 9h 60% HCSS-10463  SpectrumExplorer should auto-scale a SpireSpectrum1d
 ===== Planed =====
   * HCSS-10459	Hipe Frozen when try to open data
-  * 9h HCSS-10463	SpectrumExplorer should auto-scale a SpireSpectrum1d
-
-
+  
 ----
 
 == 2010-06-03 15:30 (7:30 GMT) ==
