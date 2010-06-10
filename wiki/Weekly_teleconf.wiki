@@ -5,8 +5,8 @@
 == 2010-06-10 15:30 (7:30 GMT) ==
 ==== PAL ====
 ===== Done =====
-* 3.5h HCSS-4587	Property substitution in XML config files	
-* 0.5h HCSS-10415	PoolManager.contains(String) is misleading and badly documented or incomplete
+ * 3.5h HCSS-4587	Property substitution in XML config files	 
+ * 0.5h HCSS-10415	PoolManager.contains(String) is misleading and badly documented or incomplete
 
 ===== Planed =====
  * HCSS-10426	PoolManager and StorageManager should know about PAL preferences	
