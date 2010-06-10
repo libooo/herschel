@@ -6,6 +6,12 @@
 ==== PAL ====
 ===== Done =====
 
+==== PLOT ====
+===== Planed =====
+  * HCSS-10459	Hipe Frozen when try to open data
+  * 9h HCSS-10463	SpectrumExplorer should auto-scale a SpireSpectrum1d
+
+
 ----
 
 == 2010-06-03 15:30 (7:30 GMT) ==
