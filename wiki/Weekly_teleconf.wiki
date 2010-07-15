@@ -16,8 +16,8 @@
  * %60 20h HCSS-6909	Product sink is not thread safe
 
 ==== Planed ====
-* HCSS-6909	Product sink is not thread safe
-* HCSS-7750	BasicLock uses unreliable mechanism
+ * HCSS-6909 Product sink is not thread safe
+ * HCSS-7750 BasicLock uses unreliable mechanism
 
 ==== PLOT ====
 ===== Done =====
