@@ -10,7 +10,7 @@
  * 0.5h HCSS-10340	PoolCreator Javadoc out of date	
  * 0.5h HCSS-10458	Deprecate LocalStore setReadOnly and isReadOnly
  * 1.5h HCSS-10556	Remove setReadOnly(true) call from the LocalStoreFactory.getStore(File jarFile)
- * 2h HCSS-10480	Remove warning "The lstore <id> is empty"
+ * 2h HCSS-10480	Remove warning "The lstore id is empty"
  * 2h HCSS-10547	TemporalPool.createZip(File, String) method must include the folder entries
  * 1h HCSS-10636 Error in AttributeContainer.ingestRecord and MetaContainer.ingestMeta methods
  * %60 20h HCSS-6909	Product sink is not thread safe
