@@ -5,6 +5,7 @@
 == 2010-07-15 15:30 (7:30 GMT) ==
 ==== PAL ====
 ===== Done =====
+ * 4h HCSS-10658	FileUtil.unzip doesn't always work
  * 1h HCSS-5883	Inconsistent behaviour between StorageManager and PoolManager
  * 2h HCSS-10011	PAL test harness should check for changes in serialized form of key classes
  * 0.5h HCSS-10340	PoolCreator Javadoc out of date	
