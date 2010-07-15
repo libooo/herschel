@@ -22,11 +22,11 @@
 
 ==== PLOT ====
 ===== Done =====
- * HCSS-9559 direct readout of X and Y values from a plot
- * HCSS-10716 Infinite loop in TickManager
- * HCSS-10562 Latex commands not sufficiently supported in PlotXY
- * HCSS-10559 AxisGroup can't fully replace isLock/setLock
- * HCSS-10463  SpectrumExplorer should auto-scale a SpireSpectrum1d
+ * 5h HCSS-9559 direct readout of X and Y values from a plot
+ * 3h HCSS-10716 Infinite loop in TickManager
+ * 38.5h HCSS-10562 Latex commands not sufficiently supported in PlotXY
+ * 8h HCSS-10559 AxisGroup can't fully replace isLock/setLock
+ * 13h HCSS-10463  SpectrumExplorer should auto-scale a SpireSpectrum1d
 ===== Planed =====
  * HCSS-5140	DPAT0: Stop performing actions in a plot after closing it
  * HCSS-10580	need the equivalent of IDL POLYFILL
