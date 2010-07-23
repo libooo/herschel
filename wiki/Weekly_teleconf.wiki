@@ -7,7 +7,7 @@
 ===== Done =====
  * 0.5h HCSS-10844	Update usage of ia_dataset comparison API (ia_pal)
  * 0.5h HCSS-10841	Update usage of ia_dataset comparison API (ia_pal_pool_lstore)
- * %70 20h HCSS-6909	Product sink is not thread safe
+ * 20h 70% HCSS-6909	Product sink is not thread safe
 
 ==== Planed ====
  * HCSS-10814 Http pool ignores the setting for HCSS_PROPS environment variable
@@ -19,7 +19,7 @@
  * 3h HCSS-5140	DPAT0: Stop performing actions in a plot after closing it
  * 1h HCSS-9597 Simplify the possibility of aux axis to have different units, part 2
  * 2h HCSS-10562 DPAT4.0: Latex commands not sufficiently supported in PlotXY, port to 4.0
- * 3h HCSS-10580	need the equivalent of IDL POLYFILL
+ * 3h 20% HCSS-10580	need the equivalent of IDL POLYFILL
 ===== Planed =====
  * HCSS-10580	need the equivalent of IDL POLYFILL
 
