@@ -2,6 +2,17 @@
 = Weekly teleconf minutes =
 
 ----
+== 2010-07-23 15:30 (7:30 GMT) ==
+==== PLOT ====
+===== Done =====
+ * 3h HCSS-5140	DPAT0: Stop performing actions in a plot after closing it
+ * 1h HCSS-9597 Simplify the possibility of aux axis to have different units, part 2
+ * 2h HCSS-10562 DPAT4.0: Latex commands not sufficiently supported in PlotXY, port to 4.0
+ * 3h HCSS-10580	need the equivalent of IDL POLYFILL
+===== Planed =====
+ * HCSS-10580	need the equivalent of IDL POLYFILL
+
+----
 == 2010-07-15 15:30 (7:30 GMT) ==
 ==== PAL ====
 ===== Done =====
