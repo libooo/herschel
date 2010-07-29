@@ -12,7 +12,7 @@
  * 20h HCSS-10580	need the equivalent of IDL POLYFILL
 ===== Planed =====
  * HCSS-10873	Log axis negative power thick label does not look good
-* HCSS-10879	The arrow symbols in plot should be aligned at the tail not at the head
+ * HCSS-10879	The arrow symbols in plot should be aligned at the tail not at the head
 
 
 ----
