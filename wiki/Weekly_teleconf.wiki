@@ -1,5 +1,18 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
+----
+== 2010-07-29 15:30 (7:30 GMT) ==
+==== PAL ====
+===== Done =====
+ * 2h HCSS-10860	Test harness coverage of http servlet methods
+==== Planed ====
+
+==== PLOT ====
+===== Done =====
+===== Planed =====
+
+
+----
 
 ----
 == 2010-07-23 15:30 (7:30 GMT) ==
