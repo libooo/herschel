@@ -9,10 +9,10 @@
  * 
 ==== PLOT ====
 ===== Done =====
- * 
+ * 10h 80% HCSS-10873	Log axis negative power thick label does not look good
 ===== Planed =====
- * 
- * 
+ * HCSS-10879	The arrow symbols in plot should be aligned at the tail not at the head
+ 
 ----
 
 == 2010-07-29 15:30 (7:30 GMT) ==
