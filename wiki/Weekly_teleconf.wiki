@@ -14,7 +14,8 @@
  * HCSS-6909	Product sink is not thread safe
  * HCSS-10670	Exception when trying to save a pool
  * HCSS-10911   Listcontext behaviour changes after saving it into a pool
-   *TODO：* Check user manual about the Context behavior, raise SCR on it if there's no particular explaination
+   _TODO： Check user manual about the Context behavior, raise SCR on it if there's no particular explaination_
+
 ==== PLOT ====
 ===== Done =====
  N/A
