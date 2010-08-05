@@ -5,13 +5,17 @@
 ==== PAL ====
 ===== Done =====
  * 0.5h HCSS-10841	Update usage of ia_dataset comparison API
+===== In Progress =====
  * 4h 80% HCSS-7750	BasicLock uses unreliable mechanism
+ * 1h HCSS-6123	Request deprecation and removal of serial pool
+ * 1h HCSS-10864	LocalStore performance requirements
 ==== Planed ====
  * HCSS-7750	BasicLock uses unreliable mechanism
  * HCSS-6909	Product sink is not thread safe
  * HCSS-10670	Exception when trying to save a pool
 ==== PLOT ====
 ===== Done =====
+===== In Progress =====
  * 10h 80% HCSS-10873	Log axis negative power thick label does not look good
 ===== Planed =====
  * HCSS-10879	The arrow symbols in plot should be aligned at the tail not at the head
