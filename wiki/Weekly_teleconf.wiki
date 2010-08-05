@@ -15,6 +15,7 @@
  * HCSS-10670	Exception when trying to save a pool
 ==== PLOT ====
 ===== Done =====
+ N/A
 ===== In Progress =====
  * 10h 80% HCSS-10873	Log axis negative power thick label does not look good
 ===== Planed =====
