@@ -9,7 +9,7 @@
  * 4h 80% HCSS-7750	BasicLock uses unreliable mechanism
  * 1h HCSS-6123	Request deprecation and removal of serial pool
  * 1h HCSS-10864	LocalStore performance requirements
-==== Planed ====
+===== Planed =====
  * HCSS-7750	BasicLock uses unreliable mechanism
  * HCSS-6909	Product sink is not thread safe
  * HCSS-10670	Exception when trying to save a pool
