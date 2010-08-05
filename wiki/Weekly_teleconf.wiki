@@ -13,6 +13,7 @@
  * HCSS-7750	BasicLock uses unreliable mechanism
  * HCSS-6909	Product sink is not thread safe
  * HCSS-10670	Exception when trying to save a pool
+ * HCSS-10911   Listcontext behaviour changes after saving it into a pool
 ==== PLOT ====
 ===== Done =====
  N/A
