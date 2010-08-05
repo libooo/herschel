@@ -1,6 +1,20 @@
 #labels Phase-Implementation,notes,meetingminutes
 = Weekly teleconf minutes =
 ----
+== 2010-08-05 15:30 (7:30 GMT) ==
+==== PAL ====
+===== Done =====
+ * 
+==== Planed ====
+ * 
+==== PLOT ====
+===== Done =====
+ * 
+===== Planed =====
+ * 
+ * 
+----
+
 == 2010-07-29 15:30 (7:30 GMT) ==
 ==== PAL ====
 ===== Done =====
@@ -13,10 +27,6 @@
 ===== Planed =====
  * HCSS-10873	Log axis negative power thick label does not look good
  * HCSS-10879	The arrow symbols in plot should be aligned at the tail not at the head
-
-
-----
-
 ----
 == 2010-07-23 15:30 (7:30 GMT) ==
 ==== PAL ====
