@@ -1,11 +1,11 @@
 #labels GSegment
 Introduction
 
-GSegment.com 北京博通易软科技有限公司
+GSegment.com
 
 主要业务：
 
   # 定制软件开发， 尤其是航天领域地面段（地面应用）系统开发
   # 软件开发过程咨询及培训
 
-联系人： libo@gsegment.com
+联系人： support@gsegment.com
