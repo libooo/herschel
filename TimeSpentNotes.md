@@ -1,0 +1,18 @@
+## 2009-05 - 2009-07 ##
+### JingJing ###
+
+|**Ticket**|**cost**|
+|:---------|:-------|
+|SCR-5372 plotting of time series	|6.2|
+|SCR-5701 PlotXY should understand astronomical coordinates	|3.0|
+|SCR-6191 Line should break on NaN value		|1.0|
+|SPR-6666 Over Plotter Single Layer Mode Problem		|1.0|
+|SCR-7062 PlotXY should adapt HIPE preference framework	|4.2|
+|SPR-7136 PlotXY does not apply stored default values	|0.5|
+|SPR-7138 All NaN date on histogram layer cause renderer failure	|0.8|
+|SPR-7180 invalid TeX string leave plot in batch mode	|0.5|
+|SCR-7320 PlotXY as a HIPE editor		|2.0|
+|SCR-7405 plot performance when adding many layers	|2.0|
+|SPR-7434 Test-harness of ia\_gui\_plot randomly fails	|0.25|
+|SPR-7419 LayerXY crashes when changing x,y vectors	|2.0|
+|SPR-7522 You can crash a plot an never be able to access it again!	|0.25|

@@ -1,0 +1,9 @@
+### 关于有些测试代码运行时报类似 undefined user.home in var.hcss.dir 的错误 ###
+
+  * 检查是否有testsuite 使用suite.addTest(FitsProductImporterTest.suite());添加的， 最好用 ·suite.addTest(new TestSuite(StubStorageManagerTest.class));·
+  * 检查是否有testsuite 使用了test.default, 貌似是由于这个机制覆盖了var.hcss.dir在coverage.properties的定义。最好不用test.default,  按需要在setup()中初始化所需configuration。
+  * 还不行就把这个suite挪到AllTests.suite()的最前面...
+
+### CheckOut 2.0 ###
+
+  * ec co -r BRANCH\_HCSS\_2\_0 ia\_pal

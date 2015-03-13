@@ -1,0 +1,1000 @@
+# Weekly teleconf minutes #
+
+---
+
+## 2010-08-05 15:30 (7:30 GMT) ##
+#### PAL ####
+##### Done #####
+  * 0.5h HCSS-10841	Update usage of ia\_dataset comparison API
+##### In Progress #####
+  * 4h 80% HCSS-7750	BasicLock uses unreliable mechanism
+  * 1h HCSS-6123	Request deprecation and removal of serial pool
+  * 1h HCSS-10864	LocalStore performance requirements
+##### Planed #####
+  * HCSS-7750	BasicLock uses unreliable mechanism
+  * HCSS-6909	Product sink is not thread safe
+  * HCSS-10670	Exception when trying to save a pool
+  * HCSS-10911   Listcontext behaviour changes after saving it into a pool
+> > _TODO： Check user manual about the Context behavior, raise SCR on it if there's no particular explaination_
+
+#### PLOT ####
+##### Done #####
+
+> N/A
+##### In Progress #####
+  * 10h 80% HCSS-10873	Log axis negative power thick label does not look good
+##### Planed #####
+  * HCSS-10879	The arrow symbols in plot should be aligned at the tail not at the head
+
+
+---
+
+
+## 2010-07-29 15:30 (7:30 GMT) ##
+#### PAL ####
+##### Done #####
+  * 2h HCSS-10860	Test harness coverage of http servlet methods
+#### Planed ####
+
+#### PLOT ####
+##### Done #####
+  * 20h HCSS-10580	need the equivalent of IDL POLYFILL
+##### Planed #####
+  * HCSS-10873	Log axis negative power thick label does not look good
+  * HCSS-10879	The arrow symbols in plot should be aligned at the tail not at the head
+
+---
+
+## 2010-07-23 15:30 (7:30 GMT) ##
+#### PAL ####
+##### Done #####
+  * 0.5h HCSS-10844	Update usage of ia\_dataset comparison API (ia\_pal)
+  * 0.5h HCSS-10841	Update usage of ia\_dataset comparison API (ia\_pal\_pool\_lstore)
+  * 20h 70% HCSS-6909	Product sink is not thread safe
+
+#### Planed ####
+  * HCSS-10814 Http pool ignores the setting for HCSS\_PROPS environment variable
+  * HCSS-10851 Can not set lstore dir in http pool
+  * HCSS-10860 Test harness coverage of http servlet methods
+
+#### PLOT ####
+##### Done #####
+  * 3h HCSS-5140	DPAT0: Stop performing actions in a plot after closing it
+  * 1h HCSS-9597 Simplify the possibility of aux axis to have different units, part 2
+  * 2h HCSS-10562 DPAT4.0: Latex commands not sufficiently supported in PlotXY, port to 4.0
+  * 3h 20% HCSS-10580	need the equivalent of IDL POLYFILL
+##### Planed #####
+  * HCSS-10580	need the equivalent of IDL POLYFILL
+
+
+
+---
+
+## 2010-07-15 15:30 (7:30 GMT) ##
+#### PAL ####
+##### Done #####
+  * 4h HCSS-10658	FileUtil.unzip doesn't always work
+  * 1h HCSS-5883	Inconsistent behaviour between StorageManager and PoolManager
+  * 2h HCSS-10011	PAL test harness should check for changes in serialized form of key classes
+  * 0.5h HCSS-10340	PoolCreator Javadoc out of date
+  * 0.5h HCSS-10458	Deprecate LocalStore setReadOnly and isReadOnly
+  * 1.5h HCSS-10556	Remove setReadOnly(true) call from the LocalStoreFactory.getStore(File jarFile)
+  * 2h HCSS-10480	Remove warning "The lstore id is empty"
+  * 2h HCSS-10547	TemporalPool.createZip(File, String) method must include the folder entries
+  * 1h HCSS-10636 Error in AttributeContainer.ingestRecord and MetaContainer.ingestMeta methods
+  * %60 20h HCSS-6909	Product sink is not thread safe
+
+#### Planed ####
+  * HCSS-6909 Product sink is not thread safe
+  * HCSS-7750 BasicLock uses unreliable mechanism
+
+#### PLOT ####
+##### Done #####
+  * 5h HCSS-9559 direct readout of X and Y values from a plot
+  * 3h HCSS-10716 Infinite loop in TickManager
+  * 38.5h HCSS-10562 Latex commands not sufficiently supported in PlotXY
+  * 8h HCSS-10559 AxisGroup can't fully replace isLock/setLock
+  * 13h HCSS-10463  SpectrumExplorer should auto-scale a SpireSpectrum1d
+##### Planed #####
+  * HCSS-5140	DPAT0: Stop performing actions in a plot after closing it
+  * HCSS-10580	need the equivalent of IDL POLYFILL
+
+
+---
+
+## 2010-06-10 15:30 (7:30 GMT) ##
+#### PAL ####
+##### Done #####
+  * 3.5h HCSS-4587	Property substitution in XML config files
+  * 0.5h HCSS-10415	PoolManager.contains(String) is misleading and badly documented or incomplete
+  * 1h HCSS-10490	Avoid registration of SerialClientFactory
+  * 4h HCSS-10491	PACS Calibration Store throws exception when accessed
+
+##### Planed #####
+  * HCSS-10426	PoolManager and StorageManager should know about PAL preferences
+  * HCSS-9400	Storing a large parameter description (2MB) in an lstore takes forever
+
+#### PLOT ####
+##### Done #####
+  * 9h 60% HCSS-10463  SpectrumExplorer should auto-scale a SpireSpectrum1d
+##### Planed #####
+  * HCSS-10459	Hipe Frozen when try to open data
+
+
+---
+
+
+## 2010-06-03 15:30 (7:30 GMT) ##
+#### PAL ####
+##### Done #####
+  * 7h HCSS-10299       Ingest functionality must be updated
+  * 1h HCSS-9389	MultiThreadTestCase should have time-out
+  * 2h HCSS-10436	(For HCSS4.0) schema evolution should not be allowed until user specifically allows it.
+  * 2h HCSS-10412	"too many files open" error when updating pools
+  * 8h HCSS-10311	Interruption in IndexManager
+  * 2h HCSS-5609	ObservationSaveStrategy changes metadata
+  * 8h HCSS-9722	Add test harness for http client pool
+  * 4h HCSS-8422	ProductStorage should send notification if the product classes have changed
+  * 1h HCSS-9792	PoolManager.getInstance needs sync and API clean-up
+  * 2h HCSS-10427	Adding exceptions to CachingPool interface
+  * 8h HCSS-4635	StoreManager/PoolManager should search classpath for config files
+##### Planed #####
+  * HCSS-4587	Property substitution in XML config files
+  * HCSS-6957	Data Pool consistency checker
+  * HCSS-10415	PoolManager.contains(String) is misleading and badly documented or incomplete
+  * HCSS-10426	PoolManager and StorageManager should know about PAL preferences
+  * HCSS-9400	Storing a large parameter description (2MB) in an lstore takes forever
+
+#### PLOT ####
+##### Planed #####
+  * HCSS-10459	Hipe Frozen when try to open data
+  * HCSS-10463	SpectrumExplorer should auto-scale a SpireSpectrum1d
+
+
+---
+
+## 2010-05-20 15:30 (7:30 GMT) ##
+
+#### Bo ####
+##### Done #####
+  * 16h 80% HCSS-10272	The pool evolver performance shall be improved
+  * 8h 80% HCSS-10014	Local store save performance and transactions
+  * 8h HCSS-9384 Refine query doesn't work correctly for different versions of the same product
+  * 2h HCSS-5615 Inconsistent handling of nonexistent local store directory
+  * 2h(Test and code review) HCSS-9912 UnsupportedOperationException when saving to HttpClientPool
+##### Planed #####
+  * HCSS-10272	The pool evolver performance shall be improved
+  * HCSS-10270	In case of failure of the pool evolver, the SW must provide automatic recovery of the backed up data
+  * HCSS-10014	Local store save performance and transactions
+  * HCSS-10299 Ingest functionality must be updated
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-7312	put properties panel into the preference editor
+
+#### Dongqing ####
+##### Done #####
+  * HCSS-9856	Can't save to HTTP pool
+  * HCSS-10379	Provide a user friendly pool name(http)
+  * HCSS-10378	Provide a user friendly pool name(serial pool)
+  * 2h 90% HCSS-5609   ObservationSaveStrategy changes metadata
+
+#### Planed ####
+  * HCSS-5609	ObservationSaveStrategy changes metadata
+  * HCSS-9722	Add test harness for http client pool
+  * HCSS-8422	ProductStorage should send notification if the product classes have changed
+
+---
+
+## 2010-05-13 15:30 (7:30 GMT) ##
+
+#### Bo ####
+##### Done #####
+
+  * 16h 70%  HCSS-10014	Local store save performance and transactions
+  * 8h    HCSS-10105	Implement saveProductRef()
+  * 2h    HCSS-5609	ObservationSaveStrategy changes metadata
+  * 2h	HCSS-7347	ServerClientPool interface needed in ia\_pal
+  * 9h	HCSS-8964	new method purge(ref) to remove all previous versions of a product
+  * 2h	HCSS-9266	PoolCreator.createPool doesn't need first argument
+  * 4h	HCSS-9384	Refine query doesn't work correctly for different versions
+  * 2h	HCSS-9685	removing deprecated code(http pool)
+  * 2h	HCSS-9686	removing deprecated code(lstore)
+  * 2h	HCSS-9936	Clear the wrapper methods that depends on deprecated methods
+  * 2h	HCSS-10053	schema evolution should not be allowed until user specific
+  * 1h	HCSS-10276	AbstractProductPool needs save(ProductRef)
+  * 4h	HCSS-10277	Wrong number of results for observation context query
+  * 1h	HCSS-10286	Add interface CachingPool
+  * 2h	HCSS-10314	removing deprecated code(serial pool)
+  * 1h	HCSS-10315	Add method makeDefaultParameters to LocalStoreFactory
+  * 1h	HCSS-10317	Add method makeDefaultParameters to SerialClientFactory
+
+#### Planed ####
+  * HCSS-10014	Local store save performance and transactions
+  * HCSS-10272	The pool evolver performance shall be improved
+  * HCSS-10270	In case of failure of the pool evolver, the SW must provide automatic recovery of the backed up data
+
+#### Jingjing ####
+##### Done #####
+  * 12h HCSS-6970	take cursor coordinates and calculate distances
+##### Planed #####
+  * HCSS-7312	refactor properties panel to fit the preference edtor
+
+---
+
+
+#### Dongqing ####
+##### Done #####
+  * 3d Reading hcss and PAL document.
+  * 2h HCSS-10318	Add method makeDefaultParameters to HttpClientFactory
+  * 3h 20% HCSS-5609	ObservationSaveStrategy changes metadata
+##### Planed #####
+  * HCSS-4587	Property subsitution in XML config files
+  * HCSS-5609	ObservationSaveStrategy changes metadata
+  * HCSS-9722	Add test harness for http client pool
+  * HCSS-9856	Can't save to HTTP pool
+
+---
+
+
+
+## 2010-04-29 15:30 (7:30 GMT) ##
+
+#### Bo ####
+#### Done ####
+  * 8h HCSS-5885	Request method to obtain pool type key from PoolCreatorFactory
+  * 8h HCSS-9266	PoolCreator.createPool doesn't need first argument
+  * 4h HCSS-9882	Provide a way to know existing pool types in PAL
+  * 4h HCSS-9940	Override methods implemented in AbstractProductPool that only delegated to pool's deprecated methods
+  * 4h HCSS-10056	Introduce URN object to "Versionable" interface (Pal)
+  * 1h HCSS-10133	HTTP pool docs not present in installed build
+  * 4h HCSS-10158	LocalStore cannot handle more than 10k products of a single type
+  * 4h HCSS-10168	Error in SerialClientPool.getUrnObject
+  * 1h HCSS-10192	Allow turning off of backup when reindexing
+
+##### Planed #####
+  * HCSS-10014	Local store save performance and transactions
+  * HCSS-10056	Introduce URN object to "Versionable" interface (Pal)
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-5144	DPAT0: UNDO button in the plot GUI
+##### Planed #####
+  * HCSS-6970	take cursor coordinates and calculate distances
+  * HCSS-7312	refactor properties panel to fit the preference edtor
+
+---
+
+## 2010-04-20 15:30 (7:30 GMT) ##
+
+#### Bo ####
+#### Done ####
+  * 1h	HCSS-5700	Pools expose unnecessary interfaces to the global user
+  * 4h 	HCSS-9551	LocalStore throws Exceptions when reading from a store that contains CVS directories
+  * 4h 	HCSS-9735	Add a removeAll method to ProductPool interface
+  * 0.5h 	HCSS-9754	CachedPool cannot be recreated from XML config & doc update
+  * 0.5h 	HCSS-9788	Doc update: HTTP PoolCreator parameters
+  * 1h 	HCSS-9789	Missing property: HTTP Pool Creator
+  * 4h 	HCSS-9937	Override methods implemented in AbstractProductPool that only delegated to pool's deprecated methods
+  * 2h 	HCSS-9966	New ingest functionality is required
+  * 4h 	HCSS-10050	Deadlock on the HSA serial daemon
+  * 3h 	HCSS-10072	Inconsistent query behaviour with longs expressed as hex or decimal
+  * 1h 	HCSS-10075	Wrong query result with negative declination
+##### Planed #####
+  * HCSS-10014	Local store save performance and transactions
+  * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory
+#### Jingjing ####
+##### Done #####
+  * HCSS-5886	Miss leading axis tick representation
+  * HCSS-10081	Uncatchable exception is throwing from PlotXY which causes the application into a dead state
+##### Planed #####
+  * HCSS-5144	DPAT0: UNDO button in the plot GUI
+
+
+---
+
+## 2010-04-08 15:30 (7:30 GMT) ##
+#### Bo ####
+##### Done #####
+  * 2h HCSS-9221 StoredVersionHandler.checkTrackId() may throw IndexOutOfBoundsException
+  * 2h 25% HCSS-9266	PoolCreator.createPool doesn't need first argument
+  * 4h HCSS-9632	LocalStore performance: remove
+  * 2h 80% HCSS-9966 New ingest functionality is required
+##### Planed #####
+  * HCSS-10012	Bulk data transfer fails to write to NFS-mounted disk
+  * HCSS-10014	Local store save performance and transactions
+  * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory
+#### Jingjing ####
+##### Done #####
+  * HCSS-5144 (40% done)	DPAT0: UNDO button in the plot GUI
+
+
+---
+
+## 2010-04-01 16:30 ##
+#### Bo ####
+##### Done #####
+  * 4h HCSS-9071	Stacktrace from Product Browser when creating new LocalStore
+  * 4h HCSS-9142	PAL interfaces should specify that containers shall be serializable
+  * 4h HCSS-9504	The "obsid" problem
+  * 4h HCSS-9741	AbstractProductPool.save(Product) has unfavourable implementation
+  * 4h HCSS-9795	Move herschel.ia.pal.browser.v2.table.model.StorageResult to herschel.ia.pal.util
+  * 2h HCSS-9903	Add getTypeName() to Urn object and throw IllegalArgumentException in getType() instead of return null when the class definition not found
+  * 2h HCSS-9917	Programs using local store do not terminate
+  * 2h HCSS-9921	Queries fail on pools with updated index
+##### Planed #####
+  * HCSS-5885 Request method to obtain pool type key from PoolCreatorFactory
+  * HCSS-9966 New ingest functionality is required
+
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-9597 Simplify the possibility of aux axis to have different units
+  * HCSS-5144 (20% done)	DPAT0: UNDO button in the plot GUI
+
+---
+
+## 2010-03-19 16:30 ##
+#### Bo ####
+##### Done #####
+  * HCSS-7793	Provide a means to rename a pool.
+  * HCSS-8182	AbstractrProductPool.load(String) visibility
+  * HCSS-8687	Improve query performance
+  * HCSS-9742	Urn class problem with equals method
+  * HCSS-9790	Let PoolDefinition be serializable
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-9723 Plot throws exceptions that should not be thrown
+  * HCSS-9758 DPST3.0:PlotXY view
+  * HCSS-9871 Plot hangs application for 1 minute before exiting
+##### Planed #####
+  * HCSS-5144	DPAT0: UNDO button in the plot GUI
+  * HCSS-7312	refactor properties panel to fit the preference editor
+
+---
+
+## 2010-03-05 16:30 ##
+#### Bo ####
+##### Done #####
+    * 4h	HCSS-9693	Remove hard coded pool id from the tags/urns mapping
+    * 12h	HCSS-7404	Implement Java query API
+    * 2h	HCSS-5601	Request for Recursive Delete Function
+    * 8h	HCSS-8962	Remove hard coded pool id from the internal references of Context to child products in their own pool
+    * 1h	HCSS-4288	Pool names no longer accept spaces
+    * 2h	HCSS-4566	Problem with products that have a type that starts with a blank
+    * 4h	HCSS-9393	ProductRef is not thread-safe
+    * 1h	HCSS-9673	Violation of interface contract in AbstractProductPool
+    * 10h	HCSS-8960	Introduce URN Object to Pal
+    * 12h	HCSS-8963	Reference counting inside a pool
+    * 1h	HCSS-9707	Save not thread-safe for new LocalStores
+##### Planed #####
+    * HCSS-8687 Improve query performance
+    * HCSS-7793 Provide a means to rename a pool.
+> > Both were failed to be integrated into 3.0 due to tests fail on hifi and pacs, still under investigation.
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-9466 Remove Graphics/Plotting category from preferences
+  * HCSS-9665 subplot has no default constraints
+  * HCSS-9666 Interactive zoom no longer works properly in plots
+##### Planed #####
+  * HCSS-5144	DPAT0: UNDO button in the plot GUI
+  * HCSS-7312	refactor properties panel to fit the preference editor
+
+
+
+---
+
+## 2010-02-11 16:30 ##
+#### Bo ####
+##### Done #####
+  * 90% HCSS-8777: Deprecate ProductPool setReadOnly and isReadOnly
+  * 1h 90% HCSS-8514: Add a method getConfiguration() to ProductPool
+
+> PACS-2316 resolved, waiting for manual build
+  * 1d 75% HCSS-7404 Implement Java query API
+> Proto version committed
+**TODO: should add java/jython example on the java doc**
+  * 4h 60% HCSS-8963 Reference counting inside a pool
+
+##### Planed #####
+  * HCSS-8687 Improve query performance
+> Pending for INFR-386: Upgrade of external LUCENE library required
+  * HCSS-8960 Introduce URN Object to Pal
+  * HCSS-7404 Implement Java query API
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-9125 (patch compiled) PlotXY setXtype(axis.RIGHT\_ASCENSION) mishandles the right ascension values
+  * HCSS-9435 (patch compiled) PlotXY newly created object in a NEW HIPE session crashes when batch is set to 1 (java.lang.error)
+##### Planed #####
+  * HCSS-5144	DPAT0: UNDO button in the plot GUI
+  * HCSS-7312	refactor properties panel to fit the preference editor
+
+
+---
+
+## 2010-02-04 16:30 ##
+#### Bo ####
+##### Done #####
+  * 2h 80% HCSS-8777: Deprecate ProductPool setReadOnly and isReadOnly
+  * 1h 80% HCSS-8514: Add a method getConfiguration() to ProductPool
+> Pending for PACS-2316 herschel.pacs.toolboxes.pal.LocalPool should extend from AbstractProductPool
+
+##### Planed #####
+
+  * HCSS-8687 Improve query performance
+  * HCSS-8963 Reference counting inside a pool
+> Pending for HCSS-9186: Analyze if Lucene 3.0 could be added to the reference platform
+  * HCSS-8960 Introduce URN Object to Pal
+  * HCSS-7404 Implement Java query API
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-9285 Can't change input number in properties editor
+##### Planed #####
+  * HCSS-5144	DPAT0: UNDO button in the plot GUI
+  * HCSS-7312	refactor properties panel to fit the preference editor
+
+
+---
+
+## 2010-01-27 16:30 ##
+#### Bo ####
+##### Done #####
+  1. 4h 100% HCSS-8962 Remove hard coded pool id from the internal references of Context to child products in their own pool
+  1. 2d 80% HCSS-8687 Improve query performance
+> > Lucene 3.0 integration, numberic support. Prototype committed in Jira system for feedback.
+
+##### Planed #####
+
+  1. HCSS-8687 Improve query performance
+  1. HCSS-8963 Reference counting inside a pool
+  1. HCSS-8960 Introduce URN Object to Pal
+  1. HCSS-7404 Implement Java query API
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-9125 PlotXY setXtype(axis.RIGHT\_ASCENSION) mishandles the right ascension values (CIB track 3.0)
+  * HCSS-9283 Rename "PlotXY viewer" preferences category to follow convention
+##### Planed #####
+  * HCSS-9125 PlotXY setXtype(axis.RIGHT\_ASCENSION) mishandles the right ascension values (Patch CIB track 2.0)
+  * HCSS-9285 Can't change input number in properties editor
+
+
+---
+
+## 2010-01-20 16:30 ##
+#### Bo ####
+##### Done #####
+  1. 4h 100% HCSS-9094 HttpClientPool does not pass methods to remote pool
+  1. 2h 100% HCSS-9088 HttpClientPool needs getProjectInfo
+  1. 1d 50% HCSS-8962 Remove hard coded pool id from the internal references of Context to child products in their own pool
+  1. 4h 50% HCSS-8687 Improve query performance
+> > Test Lucene 3.0 numberic support. Decrease the percentage of accomplishment for more effort is needed to adopt new Lucene features.
+
+##### Planed #####
+
+  1. HCSS-8687 Improve query performance
+  1. HCSS-8962 Remove hard coded pool id from the internal references of Context to child products in their own pool
+  1. HCSS-8963 Reference counting inside a pool
+  1. HCSS-8960 Introduce URN Object to Pal
+  1. HCSS-7404 Implement Java query API
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-9091 PlotXY.getLegend().setFontSize() has no effect
+  * HCSS-9145	not possible to change plot size after creation
+##### Planed #####
+  * HCSS-9179	check axis status before accessing
+  * properties editor not work on mac os x
+
+## 2010-01-12 16:30 ##
+#### Bo ####
+##### Done #####
+  1. 3d 70% HCSS-8687 Improve query performance
+> > Lucene query prototype
+  1. 1d 50% HCSS-8963 Reference counting inside a pool
+
+##### Planed #####
+
+  1. HCSS-8963	Reference counting inside a pool
+  1. HCSS-8962	Remove hard coded pool id from the internal references of Context to child products in their own pool
+  1. HCSS-7521	AttributeContainer.FakeProduct must provide a getDescription() method
+
+I wish these updates could be committed together as they all need to rebuild index.
+
+Besides I will work on:
+  1. HCSS-9094   HttpClientPool does not pass methods to remote pool
+  1. HCSS-7404   Implement Java query API
+  1. HCSS-8960	Introduce URN Object to Pal
+
+
+#### Jingjing ####
+##### Done #####
+  * HCSS-8978 Fit chart to container with target size
+  * HCSS-9081 Many test harnesses fail on Mac OS X
+  * HCSS-9084 Every property should have a fallback value
+  * HCSS-9103 Exception when saving preferences
+##### Planed #####
+  * HCSS-9091 PlotXY.getLegend().setFontSize() has no effect
+  * properties editor not work on mac os x
+
+
+---
+
+## 2009-11-26 17:00 ##
+#### Bo ####
+##### Done #####
+  1. 10h 80% HCSS-8217 ProductPool interface is ambiguous (and therefore implementations differ)
+  1. 6h 100% HCSS-8766	PAL should not execute add rules on children when loading a context
+  1. 4h 100% HCSS-6485	DPST1.0: Contexts are not saved if datasets are added
+  1. 2h 100% HCSS-5212	Context Products not flag as dirty when inner datasets are updated
+  1. 2h 100% HCSS-8809	accommodate lstore behavior to new added InterfaceContractTestGroup
+##### Planed #####
+  1. HCSS-8452 Migration of index data corrupts pool
+  1. HCSS-8687 Improve query performance
+
+#### Jingjing ####
+##### Done #####
+  1. HCSS-5915 Right- and middle-clicking on Mac does not work (the last part, configure editor)
+  1. HCSS-6930 additional capability for PlotXY
+  1. HCSS-5984 PlotXY attributes refused
+##### Planed #####
+  1. HCSS-8854 zoom or pan only on the active axis
+  1. HCSS-8734 plotxy should have ability of an a fixed line marker to axis
+
+
+---
+
+## 2009-11-19 16:30 ##
+#### Bo ####
+##### Done #####
+  1. 8h 100% HCSS-7704	HCSS Local Store very inefficient storing data
+  1. 4h 80%  HCSS-8717	TagManager thread-safety problem
+  1. 4H 80%  HCSS-8720	AbstractProductPool thread-safety problem with tags
+  1. 6H 100% HCSS-8724	Misleading message trying to retrieve delete Product
+  1. 4h 90%  HCSS-8514   Add a method getConfiguration() to ProductPool
+
+##### Planed #####
+  1. HCSS-8217 ProductPool interface is ambiguous (and therefore implementations differ)
+  1. HCSS-8766 PAL should not execute add rules on children when loading a context
+  1. HCSS-8452 Migration of index data corrupts pool
+  1. HCSS-6627 URN format /implementation/ assumes 32-bit instead of 64-bit identifiers
+> > SG suggest to postpone this action until it's proved necessary as it require all existing lstores being updated.
+
+#### Jingjing ####
+##### Done #####
+  1. HCSS-7448 CLONE -Plot SaveAs dialog should remember the last folder and format
+  1. HCSS-8340 getDataCoords and getCoords problem with touchpad motion during click
+  1. HCSS-8647 Confusing use "name" in PlotXY wrt LayerXY
+  1. HCSS-5734 The Annotation panel in properties window need to be improved
+  1. HCSS-8220 The dot plot symbol in PlotXY is invisible if size very small
+  1. HCSS-8686 Can no longer launch PlotXY properties window with a right click.
+
+##### Planed #####
+  1. HCSS-5915 Right- and middle-clicking on Mac does not work (the last part, configure editor)
+  1. HCSS-6930 additional capability for PlotXY
+  1. HCSS-5984 PlotXY attributes refused
+
+
+---
+
+## 2009-11-12 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 4h 100% HCSS-8681	Product is apparently copied when saved to a localstore
+  1. 1h 100% HCSS-8607	Local Store pools not transferrable linux to Mac
+  1. 1h 100% HCSS-8427	ProductPool and Versionable have identical save method
+  1. 5h 100% HCSS-8414	SerialClientPool does not pass methods to remote pool
+  1. 4h 100% HCSS-8347	Versionable JavaDoc incomplete
+  1. 0.5h 100% HCSS-8287	Remove deprecated method removeUrn from Versionable
+  1. 4h 100% HCSS-8185	QueryTest generates random build errors
+  1. 12h 100% HCSS-8057	setTag in AbstractProductPool is not thread-safe
+  1. 4h 100% HCSS-7811	Deprecate Lockable interface on ProductPool
+  1. 4h 100% HCSS-7315	Query not interruptible
+  1. 6h 100% HCSS-5921	Inconsistent behaviour in PoolCreatorFactory
+  1. 4h 100% HCSS-5189	PoolManager/StorageManager: Specification of XML config files
+  1. 5h 100% HCSS-4268	Remove backwards compatibility with previous versioning implementation
+  1. 0h 100% HCSS-3795	ProductStorage.select() should be cancellable
+
+
+#### Jingjing ####
+##### Done #####
+  1. HCSS-6179 PlotXY constructor ignores isSwingAwarned flag
+  1. HCSS-8583 DPAT2: include a middle-button roll zoom in PlotXY
+  1. HCSS-8649 Some data points disappear from display
+  1. HCSS-8589 Mouse zoom not working in PlotXY (MacOsX)
+  1. HCSS-8420 NullPointerException from PlotXY.getRenderedImage() when PlotXY is created with PlotXY(False)
+  1. HCSS-8554 Can not open TPL or OPL from HIPE
+  1. Preview: Configurable mouse behavior binding (HCSS-5915)
+
+
+---
+
+## 2009-10-22 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 2h 100% HCSS-8117	DPST1.2:Wrong results from queries
+  1. 2h 100% HCSS-8414	SerialClientPool does not pass methods to remote pool
+  1. 4h 100% HCSS-8443	Query throws exception
+
+#### Jingjing ####
+##### Done #####
+  1. HCSS-8275 Tired of this: PlotXY continue to crash for various reasons.
+  1. HCSS-8326 Illegal dependencies on SUN internal code
+  1. HCSS-8332 relocate "graphic" and "image" preferences
+  1. HCSS-8241 right ascension axis should be inverted nature
+  1. HCSS-8343 Axis lock API too hard to use
+  1. HCSS-8240 OverPlotter can not come back to free scale after mouse zoom in
+  1. HCSS-5701 PlotXY should understand astronomical coordinates
+  1. HCSS-8096 PlotXY stop working (compatible behavior)
+
+
+---
+
+## 2009-09-11 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 8h 100% HCSS-8077	Need to clear corrupted versions info in rebuildIndex()
+  1. 1h 100% HCSS-8040	Deprecate SynchronizedPool
+  1. 2h 100% HCSS-8022	AbstractQuery hashCode forgets about retrieveAllVersions
+  1. 1h 100% HCSS-8039	Remove removeUrn from Versionable interface
+  1. 2h 100% HCSS-8059	Modification to file naming rules
+  1. 4h 100% HCSS-8060	Memory leaks when saving large context
+  1. 4h 100% HCSS-6924   Out of memory error with level 0.5 product in ops pool
+
+#### Jingjing ####
+##### Done #####
+  1. HCSS-7959 Can't make layers in grid with axes merged
+  1. HCSS-7783 add removeLayers() method to SubPlot
+  1. HCSS-7448 CLONE -Plot SaveAs dialog should remember the last folder and format
+  1. HCSS-6053 writing a buffered image in memory directly to a file
+  1. HCSS-8027 Remove message "Content" from PlotPreferencesPanel
+
+---
+
+
+## 2009-09-04 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 2h  100%  HCSS-4292 DPST13.1:Exception rised when copying products (calsdb)
+  1. 2h  100%  HCSS-4538	LocalStore crashes with null pointer exception if directory not readable
+  1. 10h 100%  HCSS-4652 Backwards compatibility even if class definitions have been removed
+  1. 4h   50%  HCSS-5921	Inconsistent behaviour in PoolCreatorFactory
+  1. 3h  100%  HCSS-6607	StorageManager.getStorage(...) returns incorrect value
+  1. 1h   50%  HCSS-7460	ProductStorage constructor does not properly handle constructing local stores
+> > _Pending for user's feedbacks_
+  1. 2h   20%  HCSS-7521	AttributeContainer.FakeProduct must provide a getDescription() method
+> > _Pending for approval for implementation_
+  1. 1h  100%  HCSS-7645 Bin script for poolDaemon
+  1. 2h   80%  HCSS-7693	ProductStorage wrong behaviour when working with empty pools
+> > _Pending for approval to merge to 1.1_
+  1. 6h  100%  HCSS-7698	Data pool created in 1.1.1589 cannot be read by 1.1.1513
+  1. 2h  100%  HCSS-7733	Copy Constructor of MapContext gives a NullPointerException
+  1. 1h  100%  HCSS-7758 PoolDaemon usage info not printed correctly
+  1. 1h   10%  HCSS-7913	Can't see Spire data content
+> > _Pending for the pool to reproduce the problem_
+  1. 4h  100%  HCSS-7918	getProductClasses is not cleaned up when products are removed
+
+#### Jingjing ####
+  1. HCSS-7959 (done) Can't make layers in grid with axes merged
+  1. HCSS-7783 (done) add removeLayers() method to SubPlot
+  1. HCSS-7583 (done) Plot properties panel should migrate to HIPE outline and properties view
+  1. HCSS-7448 (done) CLONE -Plot SaveAs dialog should remember the last folder and format
+  1. HCSS-6053 (done) writing a buffered image in memory directly to a file
+
+
+
+---
+
+
+## 2009-08-25 16:00 ##
+#### telecon on PAL concurrency behaviour ####
+##### libo, Steve, Stephan, Paul, Jorgo, Asier, Anthony #####
+
+
+---
+
+
+## 2009-08-17 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 4h 100% HCSS-6214	Synchronized Locks cache grows until out of memory
+  1. 1h 80%  HCSS-7645	Bin script for poolDaemon
+  1. 2h 10%  HCSS-7704	HCSS Local Store very inefficient storing data
+  1. 1h 10%  HCSS-7750	BasicLock uses unreliable mechanism
+  1. 3h 90%  HCSS-7733	Copy Constructor of MapContext gives a NullPointerException
+  1. 2h 20%  HCSS-7697	Random error in test harnesses of ia\_pal\_pool\_cache
+  1. 0.2h 100% HCSS-7778	ProductPool JavaDoc mistake
+  1. 1h 100% HCSS-7770   Taggable JavaDoc
+  1. 4h moved to ia\_io  HCSS-7744	Memory leaks when saving large context
+
+#### Jingjing ####
+  1. (70%) HCSS-7583 Plot properties panel should migrate to HIPE outline and properties view
+
+
+---
+
+
+## 2009-08-11 15:30 ##
+#### telecon on assistance for ia\_pal\_pool\_cache development ####
+##### Stephan, libo, Steve, Paul, Juan, Jaime #####
+
+
+---
+
+
+## 2009-08-06 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 4h 90% [HCSS-7476](http://herschel.esac.esa.int/jira/browse/HCSS-7476) :Current cache limiting strategy does not make sense
+  1. 1h 100% d-tagged in 1.2 [HCSS-6842](http://herschel.esac.esa.int/jira/browse/HCSS-6842) : General Lstore Performance
+  1. 2h 100% [HCSS-7644](http://herschel.esac.esa.int/jira/browse/HCSS-7644) :version number of observation contexts are always set to 0
+  1. 2h 100% [HCSS-7558](http://herschel.esac.esa.int/jira/browse/HCSS-7558) :Random failure to save products to a localStore pool
+  1. 1h 100% [HCSS-7642](http://herschel.esac.esa.int/jira/browse/HCSS-7642) :Cannot access Pools any more
+  1. 0.25h 100% [HCSS-7604](http://herschel.esac.esa.int/jira/browse/HCSS-7604) :Delegated CachedPool setReadOnly status set wrongly
+  1. 0.5h 100% [HCSS-7500](http://herschel.esac.esa.int/jira/browse/HCSS-7500) :Rollback of unapproved PAL changes
+
+#### Jingjing ####
+  1. (40%) HCSS-7583 Plot properties panel should migrate to HIPE outline and properties view
+
+
+---
+
+
+## 2009-07-29 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 0.5md 100% [HCSS-7562](http://herschel.esac.esa.int/jira/browse/HCSS-7562) : Cache pool does not handle multiclient access properly
+  1. 0.8md 90%? [HCSS-6842](http://herschel.esac.esa.int/jira/browse/HCSS-6842): General Lstore Performance
+  1. 0.5md 30% [HCSS-7476](http://herschel.esac.esa.int/jira/browse/HCSS-7476) :Current cache limiting strategy does not make sense
+##### To Do #####
+  1. update 6842 SCR about autoupdate
+  1. HCSS-7558	Random failure to save products to a localStore pool
+  1. [HCSS-7476](http://herschel.esac.esa.int/jira/browse/HCSS-7476) :Current cache limiting strategy does not make sense
+
+#### Jingjing ####
+  1. (2.0md done) HCSS-7419 LayerXY crashes when changing x,y vectors
+  1. (2md done) HCSS-7320 PlotXY as a HIPE editor
+  1. (0.2md 10%) HCSS-7583 Plot properties panel should migrate to HIPE outline and properties view
+
+
+---
+
+
+## 2009-07-21 16:00 ##
+#### Bo ####
+##### Done #####
+  1. 0.8md 100% for approach 1. [HCSS-4469](http://herschel.esac.esa.int/jira/browse/HCSS-4469): provide mechanism to distribute and use a pool as a jar-file
+  1. 0.3md Analyzed(pending for feedback) [HCSS-5601](http://herschel.esac.esa.int/jira/browse/HCSS-5601):Request for Recursive Delete Function
+  1. 0.1md 100%. [HCSS-7191](http://herschel.esac.esa.int/jira/browse/HCSS-7191):Chain storage registrations, register storages in storages
+  1. 2.5md 100% for ia\_pal. Not start on pools. [HCSS-7461](http://herschel.esac.esa.int/jira/browse/HCSS-7461): Improve the test coverage to >80%
+  1. 0.2md 100%. [HCSS-7464](http://herschel.esac.esa.int/jira/browse/HCSS-7464): deprecation of herschel.ia.pal.versioning.TagsLoader
+##### To Do #####
+  1. [HCSS-7476](http://herschel.esac.esa.int/jira/browse/HCSS-7476): Current cache limiting strategy does not make sense
+  1. [HCSS-7277](http://herschel.esac.esa.int/jira/browse/HCSS-7277): Tags API incomplete **Before Friday**
+  1. [HCSS-6842](http://herschel.esac.esa.int/jira/browse/HCSS-6842): General Lstore Performance  **Before Friday**
+
+#### Jingjing ####
+  1. (done) HCSS-7405 plot performance when adding many layers
+  1. (done) HCSS-7434 Test-harness of ia\_gui\_plot randomly fails
+  1. (20%) HCSS-7419 LayerXY crashes when changing x,y vectors
+
+---
+
+
+## 2009-07-09 16:00 ##
+#### Bo ####
+  1. 0.5md Done [HCSS-7277](http://herschel.esac.esa.int/jira/browse/HCSS-7277): Tags API incomplete
+  1. 0.5md Done [HCSS-5460](http://herschel.esac.esa.int/jira/browse/HCSS-5460): Poor feedback on errors
+  1. 0.5md Done [HCSS-5189](http://herschel.esac.esa.int/jira/browse/HCSS-5189): PoolManager/StorageManager: Specification of XML config files
+  1. 0.25md Done [HCSS-5131](http://herschel.esac.esa.int/jira/browse/HCSS-5131): product browser exits with null pointer exception
+  1. 0.25md Done [HCSS-7346](http://herschel.esac.esa.int/jira/browse/HCSS-7346): Take account of odNumber in file name
+  1. 0.5md 50%for approach 1. [HCSS-4469](http://herschel.esac.esa.int/jira/browse/HCSS-4469): provide mechanism to distribute and use a pool as a jar-file
+  1. 0.1md Done [HCSS-3489](http://herschel.esac.esa.int/jira/browse/HCSS-3489): Incomplete developer documentation for IA\_Pal\_Pool\_Serial
+
+Next Action:
+  1. HCSS-4469
+  1. HCSS-6924
+
+#### Jingjing ####
+  1. (done) HCSS-7062 PlotXY should adapt HIPE preference framework
+  1. (done) HCSS-7180 unicode character in math mode
+  1. (done) HCSS-7328 axis tick: assign a combination of (values, labels)
+
+
+---
+
+
+## 2009-06-30 16:00 ##
+#### Bo ####
+  1. 1md Done [SPR-7115/SPR-7116](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7115) : URGENT: cached pool does not work with any context product?
+  1. 0.4md Done [SPR-7151](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7151) : SimplePool still present in ia\_pal documentation
+  1. 0.1md Done [HCSS-6206](http://herschel.esac.esa.int/jira/browse/HCSS-6206): Broken SW Documentation Chain in ia\_pal\_pool\_serial
+  1. 0.25md Done [HCSS-5024](http://herschel.esac.esa.int/jira/browse/HCSS-5024): SCR:HCSS-5024:ia\_pal\_pool\_serial: PoolDaemon must provide HCSS build number
+  1. 0.25md Done [HCSS-7191](http://herschel.esac.esa.int/jira/browse/HCSS-7191): SCR: HCSS-7191: ia\_pal: Chain storage registrations, register storages in storages
+  1. 0.25md 80% [HCSS-4268](http://herschel.esac.esa.int/jira/browse/HCSS-4268): Remove backwards compatibility with previous versioning implementation
+  1. 0.5md Done [HCSS-7208](http://herschel.esac.esa.int/jira/browse/HCSS-7208): HCSS-7208: ia\_pal\_pool\_cache: Create a means to invoke an automatic load of all the childs in case a root-product (for ex. a map context) is loaded in cache pool
+  1. 0.1md Done [HCSS-5666](http://herschel.esac.esa.int/jira/browse/HCSS-5666): SPR: HCSS-5666: ia\_pal: hcss.ia.pal.defaultpool still appears in PoolManager
+  1. 0.5md Done? [HCSS-6950](http://herschel.esac.esa.int/jira/browse/HCSS-6950): ia\_pal\_pool\_lstore test-harnesss not reliable
+  1. 0.1md Done [HCSS-3394](http://herschel.esac.esa.int/jira/browse/HCSS-3394): Update the User Reference Manual: Pal examples
+  1. 0.2md 70% [HCSS-5921](http://herschel.esac.esa.int/jira/browse/HCSS-5921): Inconsistent behaviour in PoolCreatorFactory
+
+#### Jingjing ####
+  1. [SPR-7136](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7136) PlotXY does not apply stored default values
+  1. [SPR-7138](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7138) All NaN date on histogram layer cause renderer failure
+  1. HCSS-7180 invalid TeX string leave plot in batch mode
+  1. HCSS-7062 PlotXY should adapt HIPE preference framework (STILL ON WORKING)
+
+---
+
+
+
+## 2009-06-19 16:00 ##
+#### Bo ####
+  1. 0.5md 80%? [SCR-4186](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4186) : Remove component SimplePool  (Wait for others guys go on the procedure...)
+  1. SCR-6842 also fix [SPR-6076](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6076) : Unexpected behavior of setTag doubles the size of the pool. (Wait for confirm the requirement of versionned Tag could be dropped.)
+  1. [SPR-7115](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7115) :URGENT: cached pool does not work with any context product?  (investigating...)
+#### Jingjing ####
+  1. [SCR-7062](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=7062) PlotXY should adapt HIPE preference framework (finish design, will implement next week.)
+
+
+---
+
+
+## 2009-06-12 16:00 ##
+### Pre-meeting ###
+#### Bo ####
+  1. 2md 90% [SCR-6842](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842) : General Lstore Performance
+  1. SCR-6842 also fix [SPR-6076](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6076) : Unexpected behavior of setTag doubles the size of the pool.
+  1. 0.5md Done [SPR-6701](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701) : Performance of PAL Context Rules mechanism
+  1. 0.1md Done [SCR-6802](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6802) : Move SizeCalculator from ia\_pal to ia\_dataset
+
+#### Jingjing ####
+  1. 
+
+### Meeting mimutes ###
+
+#### PAL ####
+
+Bo reported the work items listed in above Pre-meeting section.
+
+Next Action:
+  1. [SCR-4186](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4186) : Remove component SimplePool
+
+#### Plot ####
+
+Jingjing reported the work items listed in above Pre-meeting section.
+
+Next Action:
+  1. 
+
+
+
+---
+
+## 2009-06-04 15:30 ##
+### Pre-meeting ###
+#### Bo ####
+  1. 1md done? [SPR-4436](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436) : Pool Schema Evolver Does not copy tags info
+  1. 0.5 md done? [SPR-6920](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6920) : CRITICAL: Cache pool do not set owner of the product properly
+  1. 2md 50% [SCR-6842](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842) : General Lstore Performance
+#### Jingjing ####
+  1. [SCR-5701](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=5701) PlotXY should understand astronomical coordinates
+
+### Meeting mimutes ###
+
+#### PAL ####
+
+Bo reported the work items listed in above Pre-meeting section.
+
+Next Action:
+  1. [SCR-6842](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842) : General Lstore Performance
+  1. [SPR-6701](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701) : Performance of PAL Context Rules mechanism
+#### Plot ####
+
+Jingjing reported the work items listed in above Pre-meeting section.
+
+Next Action:
+  1. 
+
+---
+
+
+## 2009-05-27 ##
+### Pre-meeting ###
+#### Bo ####
+  1. 0.2 Done? [SCR-6316 & 6766 & 6767](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316) : Naming convention for exported FITS files
+  1. 1.0md Done [SPR-6743](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6743) : cannot instantiate a cache pool offline
+  1. 1.0md Done [SCR-5024](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=5024) : PoolDaemon must provide HCSS build number
+  1. 0.2md Done 	[SPR-6676](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6676) : MapContext presents products in non-alphabetical order
+  1. Should I look it in high priority?[SPR-4436](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436) : Pool Schema Evolver Does not copy tags info
+#### Jingjing ####
+  1. SCR-5372 : plotting of time series
+
+### Meeting mimutes ###
+
+Maohai asked about the use of XTCE in herschel. Steve has no idea about it.
+
+#### PAL ####
+
+Bo reported the work items listed in above Pre-meeting section.
+
+Next Action:
+  1. [SPR-4436](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436) : Pool Schema Evolver Does not copy tags info
+  1. [SCR-6842](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842) : General Lstore Performance
+#### Plot ####
+
+Jingjing reported the work items listed in above Pre-meeting section.
+
+Next Action:
+  1. 
+
+
+---
+
+
+## 2009-05-21 ##
+### Pre-meeting ###
+#### Bo ####
+  1. 0.2 [SPR-6762](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6762) : cache blocks usr from writing to a DbPool ; cannot be recovered in same session
+  1. 0.5 Testing only. HttpPool not working after ia.io updated(1.1.39) [SPR-6777](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6777) : HttpPool not working
+  1. 0.5 [SPR-6701](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6701) : Performance of PAL Context Rules mechanism
+  1. 0.5 Analyze only. [SPR-4436](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4436) : Pool Schema Evolver Does not copy tags info
+  1. 0.2 Just email exchange on [SCR-6316](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316) : Naming convention for exported FITS files
+  1. 0.2 Create an SCR for lstore performance... [SCR-6842](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842) : General Lstore Performance
+  1. 0.01 Email exchange on [SCR-4460](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=4460) : new save feature needed ; propagation of a product (or - tree) to slave pool
+
+### Jingjing ###
+  1. [SPR-6666](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6666) Over Plotter Single Layer Mode Problem
+
+### Meeting mimutes ###
+#### PAL ####
+Next Action:
+  1. [SCR-6316 & 6766 & 6767](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6316) : Naming convention for exported FITS files
+  1. [SPR-6743](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6743) : cannot instantiate a cache pool offline
+  1. Try to deliver [SCR-6842](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6842) : General Lstore Performance  before next code freeze.
+
+#### Plot ####
+Next Action:
+  1. [SCR-5372](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=5372) : plotting of time series
+
+
+
+---
+
+
+
+## 2009-05-08 ##
+
+### Pre-meeting ###
+#### Bo ####
+  1. [SPR-6605](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6605) : sim3-failure while cal. product upload testing; getVersions(pref) fails for dbp.
+  1. [SCR-6606](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6606) : SIMS#3: not able to set cache to be used in offline mode
+  1. Performance: getAllLatestVersionUrnByClass() optimized. （D\_IA\_PAL\_POOL\_LSTORE\_1\_75 (2009-05-05) [BLI](BLI.md)）
+  1. [SPR-6548](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6548) : Change of class for the result of a query
+  1. [SPR-6735](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=6735) : SGS-E2E#1: Cache pool inconsitent tagging in multi client environment
+
+
+#### Jingjing ####
+  1. [SCR-5372](http://www.rssd.esa.int/herschel_webapps/servletsuite/ProblemReportServlet?area=hcss&mode=displaypr&id=5372) : plotting of time series
+
+### Meeting mimutes ###
+### PAL ###
+  1. Create a SCR for lstore performance and work on it.
+  1. SCR-6701 Performance of PAL Context Rules mechanism.
+
+> Implement caching metadata for ProductRef.getMeta().
+    * Implement it to see if it break any test harness.
+    * Using a secret property to control if the behavior is changed.
+
+### Plot ###
+  1. SCR-5372: plotting of time series  50%
+
+### Sean ###
+About sent Sean to RAL.
+
+### Next teleconf ###
+  1. 
